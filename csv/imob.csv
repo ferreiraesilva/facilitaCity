@@ -1,0 +1,536 @@
+﻿id;nome
+12;Equipe TESTE
+17;ACTOS IMOVEIS
+18;ALLGE IMÓVEIS
+19;Ana Mônica Barbosa da Cunha
+20;Ana Vera Carvalho
+21;Anderson Rodrigues Ribeiro
+22;Argon
+23;ATUAL IMOBILIARIA
+24;Caroline Alves Neri Batista - Autônomos
+25;B2C IMOVEIS
+26;BARRETO IMOVEIS
+27;BIC EMPREENDIMENTOS E NEGÓCIOS
+28;BL IMOVEIS
+29;BW IMÓVEIS
+30;Carolayny Carvalho Lima
+31;CARTERI IMOVEIS
+32;CARVALHO IMÓVEIS
+33;CASA TUA
+34;CASABELLA IMOBILIARIA
+35;CL7 Imóveis Ltda
+36;CONEX HOME
+37;CRISTAL IMOVEIS
+38;Eliane Bastos
+39;Elton Francisco da Silva
+40;Epic Real Estate Imobiliaria
+41;Especifica Imóveis
+42;Exata Imoveis
+43;Fabiana Mundim
+44;Feliciano Imóveis
+45;Fortunato Pedroza
+46;G1 IMOVEIS
+47;GILBERTO DE ALCANTARA
+48;Heracléia Aparecida Franco Marques Carvalho
+49;Imagem Imóveis
+50;João Márcio Inácio Siqueira
+51;KEILA ALVES
+52;Leonardo Lacerda
+53;Lopes Bueno
+54;Lopes Jardim Goiás
+55;Lopes Marista
+56;LOREN GUSMÃO
+57;LTZ IMOVEIS
+58;LUMINA IMOBILIARIA
+59;Luxo Gyn
+60;Luxo imóveis Goiás
+61;LVL IMOBILIARIA
+62;M360 IMOVEIS
+63;MAGALI BRANDAO
+64;MAQNA NEGOCIOS IMOBILIARIOS
+65;MARINALVA SOUZA
+66;MAXWELL IMOVEIS
+67;NONATO IMÓVEIS
+68;OPC PRIME
+69;Orlando Donizete Souza Junior
+70;Oron Imobiliária
+71;PATRICK E LEANDRO IMÓVEIS
+72;PCI imóveis
+73;PENTAGONO IMOVEIS
+74;PERITOS EM IMÓVEIS
+75;Pérola Imóveis
+76;Prime Imóveis
+77;PRIVILEGE IMOBILIARIA
+78;R8 Imóveis
+79;RAFAEL MACHADO
+80;REMAX
+81;REVENDAS GOIÂNIA
+82;Ricardo Ribas Imóveis
+83;RODOVALHO IMOVEIS
+84;SOUSA ANDRADE VENDAS
+85;TAVARES E MEDINA IMOVEIS
+86;VOLKER IMOVEIS
+87;Westony Gomes Pereira
+88;Weverton Reis Santos
+89;Clara Soyer - Autônomos
+90;City Inc
+91;City Vendas
+92;2K IMÓVEIS
+93;ADM Imobiliária
+94;Aleixo Rezende
+95;AMIZ
+96;Argon Conexoes imobiliarias
+97;Kamyla Costa - Autônomos
+98;Axe Imobiliária
+99;Blue House
+100;Brokers Imoveis
+101;BSDI
+102;Castel Infinity
+103;Charlene Athie
+104;CLASS IMOVEIS
+105;Diamond
+106;Emerson Ferraz de Oliveira
+107;Emirates Imobiliária
+108;EVA MAGALHAES NEGOCIOS IMOBILIARIOS
+109;Exho
+110;Ezi Imoveis
+111;Firmino Filho
+112;Full house
+113;Guilherme Pina
+114;HAUT IMOVEIS SOB MEDIDA
+115;HAUZ NEGOCIOS IMOBILIARIOS
+116;House Goiás Imobiliária
+117;Hub Soluções Imobiliárias
+118;IMMOBILE CENTER NEGOCIOS IMOBILIARIOS
+119;IZZI IMOVEIS
+120;Jennifer Imóveis
+121;JOSÉ MARCOS MOREIRA FILHO
+122;Josimeire Teixeira Sousa
+123;Kayra Dias
+124;Kelly Cristina Barbosa da Silva
+125;KyRo Soluções Imobiliárias
+126;Leika Aparecida Laureano
+127;Lets Imob
+128;Lorena Garcia Matias Pinto
+129;Luciana Gurgel
+130;LVD Gestão Imobiliária Ltda
+131;Malu Carneiro
+132;Marista Imóveis
+133;MB Alpha Mall
+134;MB Areião
+135;MB Buena Vista
+136;MB Bueno
+137;MB Eldorado
+138;MB Garavelo
+139;MB Independência
+140;MB Jardim Goiás
+141;MB Jd America
+142;MB Marista
+143;MB Office
+144;MB Parque Amazônia
+145;MB pç do Sol
+146;MB Senador Canedo
+147;MB Setor Sul
+148;MB Vila Brasília
+149;Melhor Imóvel Soluções Imobiliárias
+150;MGI House
+151;Murilo Occhiena Gomes de Oliveira
+152;Nova Imobiliária
+153;OM Vendas
+154;Piinari
+155;Rebecca imóveis
+156;Renato Fernandes
+157;Rodrigo Maroli
+158;Rossi Imóveis
+159;SOHO IMOBILIÁRIA CONCEITO
+160;Talita Michele Gomes de Oliveira
+161;Tandoor Imóveis
+162;Taquary Imoveis
+163;Tcm
+164;Tellure
+165;Terral Vendas
+166;Urias Borges
+167;Vicky
+168;Wesley Ednardo Pimentel
+169;Weudson Saraiva Ribeiro
+170;You
+171;Zimar Gomes
+172;Arbo Imóveis
+173;AREDES imóveis
+174;AWR IMÓVEIS
+175;Futura Imóveis
+176;HOME CLASS SOLUÇÕES IMOBILIARIAS LTDA
+177;Kamanzi Imóveis
+178;ML Imóveis Ltda.
+179;Monferrari Imoveis
+180;My Side
+181;Nítida Imóveis
+182;ONIRIA IMOVEIS
+183;OUR Imobi
+184;Peixoto Negócios Imobiliários Ltda
+185;Rs Imóveis
+186;Thal Opportunity
+187;TJ SOLUCOES IMOBILIARIAS LTDA
+188;Urbs Alphamall
+189;URBS Brava
+190;URBS Cerrado
+191;URBS Conceito
+192;URBS Connect
+193;URBS Donna
+194;Urbs imobi
+195;URBS Infinity
+196;URBS Neo
+197;URBS One
+198;URBS Piri
+199;URBS Private
+200;Urbs Realty
+201;Urbs Seven
+202;Vallóre Negócios Imobiliários
+203;VALUS JARDIM GOIÁS
+204;Valus Marista
+205;Vesper Imóveis
+533;#NAME?
+207;3 MORADAS
+208;Ornelas da Mata - Autônomos
+209;AWM IMÓVEIS
+210;Baiochi Imoveis
+211;BR WORLD & REALTY
+212;Bravo Imobiliária
+213;Breno Ananias
+214;CMO Vendas
+215;Conectiva Imóveis
+216;COSTA IMÓVEIS
+217;Cruz Imobiliária
+218;DENES RESENDE
+219;Denise Brito
+220;Elison Bernardes
+221;Fernando Henrique Arantes Medrado
+222;Flávia Rodrigues Gomes
+223;GH Imóveis
+224;Home Gyn
+225;Hopp Imóveis
+226;Houser Consultoria Imobiliária Ltda
+227;Imobiliária Vivá
+228;Leonardo Almeida
+229;Leonardo Borges
+230;LF REAL STATE LTDA
+231;Lídder imobiliária
+232;M A Negócios Imobiliários Ltda
+233;M2
+234;Mauricio Agapito dos Santos Jr
+235;Máxima Imob
+236;Mil Imóvel
+237;O Povo Imobiliária
+238;Otavio Augusto Souza Almeida
+239;PARG imóveis
+240;Pedro botosso de amorim
+241;Pedroza Imóveis
+242;Petra Imóveis
+243;Portfólio Jardim Goiás
+244;PORTFÓLIO MARISTA
+245;Portfolio Prime
+246;Primmus Inteligência Imobiliária
+247;Rogério Gomes de Freitas
+248;Sarto Imóveis
+249;Saulo Silva
+250;SHARKS IMOBILIÁRIA JARDIM GOIÁS
+251;TAP NEGÓCIOS IMOBILIÁRIOS
+252;VERUS IMOBILIARIA
+253;Vitta Imobiliária
+254;Wagner Luiz Costa dos Santos
+255;Xangai Imóveis
+256;41 Business
+257;Adão Action
+258;Adão Matriz
+259;Adão Solo
+260;Adão Talent
+261;Adão Unique
+262;Adão Vida Nova
+263;Adão Virto
+264;Adão X
+265;Adriana Guion
+266;Aliga
+267;Alitz Imóveis
+268;Alpha Soluções
+269;AMJ Gestão Imobiliária
+270;Anderson Cardoso da silva
+271;Angela Villa
+272;Astro Imobiliária
+273;Paula Tirabosqui - Autônomos
+274;Azus Imobiliária
+275;Belarmino Imóveis
+276;Black Hauss
+277;Buy Home
+278;Claudino Imóveis
+279;Daniel Henrique de Oliveira Neves
+280;DATA IMOVEIS
+281;DQ Business Consultoria Imobiliária
+282;Evolution
+283;Fabíola Cardoso da Silva
+284;FAROL IMOBILIÁRIA
+285;FEDERAL IMÓVEIS
+286;Felizardo Imóveis
+287;Fidelitè
+288;Frota Imob
+289;Fulvio Santos
+290;Grupo Delabona
+291;GS Imóveis
+292;Gyn Consultoria
+293;Hogar Imóveis
+294;Home Buy
+295;HOUSE YUTÁ
+296;Imobiliária Dinamic
+297;Imobiliária TOP
+298;Imobiliary
+299;Imóvel Certo Gyn
+300;Investt Imóveis
+301;JC BROKERS
+302;LCRI NEGOCIOS IMOBILIAROS LTDA - Imobiliária TOP
+303;Legacy
+304;Lótus Imobiliária
+305;Luxury Imóveis
+306;MAD DOG
+307;Mappa Imóveis
+308;Marcelo Simões
+309;Match Imobiliária Conceito
+310;N4 Imóveis
+311;NEX Imoveis
+312;Nov Imobiliária
+313;Obter
+314;Ohanna Aguiar
+315;Onix Imobiliária
+316;Open hauz
+317;Ópera Soluções Imobiliárias
+318;Osmar Afonso Barbosa
+319;Pado Imóveis
+320;Partini Vendas
+321;Paulo Henrique Imóveis
+322;Pointer Imobiliária
+323;PontoCom
+324;Prado Imóveis
+325;Raul Lesme
+326;RBB Imobiliária
+327;REALIZE IMÓVEIS
+328;Regina Neves
+329;Rizzo Imobiliária
+330;Roggerio Lemez - Fleury
+331;Royal Imobiiária
+332;Shirley Allves
+333;SIX PARTNERS
+334;Supreme
+335;Telma Pires
+336;TZ7 Imob.
+337;Visio Imóveis
+338;VVS Negócios Imobiliários
+339;Abedias Souza
+340;AEVO JARDIM GOIÁS
+341;Aevo Marista
+342;Alfa Center
+343;Atlanta Imóveis
+344;Aurican Ramos
+345;Weverton Otaviano - Autônomos
+346;BRASILÊRA IMÓVEIS
+347;Casa 41
+348;CASA MODELO
+349;Cir Imobiliária
+350;Consciente Vendas
+351;DOM
+352;Evo
+353;Exclusive imobiliária
+354;Franklin Carvalho
+355;GJ NEGÓCIOS IMOBILIÁRIOS
+356;Grupo Felizardo
+357;Guilherme Salomão
+358;Imobiliária Portal
+359;Jane Gardens
+360;K3R imóveis
+361;Kassifi imóveis Ltda
+362;Lago Premium imobiliária
+363;Leonardo de Araújo Lima Freitas
+364;Like Imobiliária
+365;Luds Imobiliária
+366;Mais Novus
+367;MELO DE MELO
+368;Mirano Imóveis
+369;Mond Negócios
+370;Orla
+371;Polo Imóveis
+372;Provenda
+373;Rodrigo Marcante de Mattos
+374;RW Imóveis
+375;Seu Imóvel Goiânia
+376;Singus Imóveis
+377;Sônia Soares
+378;1000 Fazendas
+379;Adão ADS
+380;Adão Intense
+381;Adão Solution
+382;Adão Vibe
+383;Adão Vision
+384;Aline de Sá
+385;All Brokers
+386;ANNA KARLA HOUSER IMOBILIARIA
+387;Antônio Walter
+388;Apus
+389;ARTUR VITORINO
+390;Autimob
+391;BASTIÃO PORTFÓLIO MARISTA
+392;Bessa Imóveis
+393;Bliss Imobiliária
+394;BNN Imóveis
+395;BP Imobiliária (Bruno Peres)
+396;BR WORLD
+397;BRENO RIBEIRO
+398;Bruno Faria
+399;Bume Imóveis
+400;Caroline Michelone
+401;Casa Real
+402;Caza Gold
+403;City Indicação
+404;City Terrenos
+405;Danielle Lemos Moreira
+406;Danillo Barbosa
+407;Deborah Cristina
+408;Dicastro
+409;Domus
+410;Douglas Torres
+411;Edilson Cruz
+412;Edvaldo Carlos Ramos
+413;Emilia Amin
+414;EMILIA Imóveis
+415;ERIKA DE PAULA SHARKS
+416;Ética Imobiliária
+417;EXTREME IMOVEIS
+418;F&S Imobiliária
+419;FABRÍCIO DUARTE
+420;Fabricio Monnerat
+421;FERNANDA 3 MORADAS
+422;FERNANDA AZEVEDO
+423;Fernando Bueno
+424;Fernando Caixeta Sharks
+425;Fernando Medrado
+426;Fraade Ramos
+427;GABRIELLA GARCIA
+428;Glenda Imóveis
+429;Habitart Imóveis
+430;Henrique Luiz dos Santos
+431;Homes & Farms Imoveis
+432;HOOP Imobiliária
+433;HOUSE & AVIATION IMOBILIARIA
+434;Iago Blayton
+435;Imobiliaria Marista
+436;IN7 Imobiliária
+437;INVISTTA IMOBILIARIA
+438;Ivany Brokers
+439;João Márcio
+440;JOÃO VICTOR NONATO
+441;Joao Vitor de Araujo Macedo
+442;Joselaine Volpi
+443;Joyce Rodrigues
+444;JS Imóveis
+445;Juliana Coelho
+446;JULIO TERRA
+447;Juntos Imobiliária
+448;Kelly Maia
+449;Kenia Martins do Vale
+450;Klauss de Meneses
+451;Kunnert Imóveis
+452;LANE PARANHOS
+453;Leidyane Duarte
+454;Lenardo Borges
+455;Leonardo Rebouças
+456;LF Imóveis
+457;Lilian Nunes
+458;Luana Devanir
+459;Lucelia Santos de Oliveira
+460;Lucelma Veli
+461;Luis Flávio
+462;Marcelo Azeredo
+463;Márcio Pedroza
+464;Marco Antônio
+465;Marcos Aurélio
+466;Marcos Leão
+467;Mariana Gomes
+468;Mayconn Braga
+469;Mb 5° Avenida
+470;MB BOUGAINVILLE
+471;Mb Exclusive
+472;MB Infinity
+473;MB Jaó
+474;Mb Oeste
+475;MB Pq Amazonia
+476;Melo Terra Vip
+477;MICHELINI AWM
+478;MICHELY MIL FAZENDAS
+479;Minha Imobiliária
+480;MY HUNTER
+481;Neiva Coelho
+482;Nu Company
+483;NUNO GOIS
+484;OTÁVIO SHARKS IMOBILIÁRIA
+485;PAULA PORTFÓLIO MARISTA
+486;PAULO RODRIGUES SHARKS
+487;Pedro Henrique
+488;PERFECT HOUSE SOLUCOES IMOBILIARIAS
+489;Point Imóveis
+490;PORTFÓLIO
+491;Portfólio Imóveis
+492;Portifolio
+493;Prospera Soluções Imobiliárias
+494;Raquel Cristina
+495;Reilla Freitas
+496;RICARDO ALESSANDRI HOUSER
+497;Ricardo Ferreira
+498;Rodovalho
+499;ROGIO XAVIER PEZZOTTI
+500;Ronaldo Kuhn
+501;RS Investimentos
+502;RS SANTOS
+503;Ruy Costa
+504;Salazar
+505;SANDRO MONTAGNA
+506;Seguro Imoveis
+507;Select
+508;SHARKS MARISTA
+509;SOLOT IMOVEIS
+510;SPEs Imóveis
+511;TAL OPPORTUNITY
+512;Tempus Imobiliária
+513;Terra Imóveis
+514;Terrazo Imóveis
+515;Thais Nascimento
+516;THAIS URZEDA
+517;THAISA DURANTE
+518;Thales Cárfaro
+519;The House Imobiliária
+520;Thiago Alencar
+521;Times Imobiliária
+522;URBE CONSULTORIA
+523;URBS +
+524;URBS Opportunity
+525;VALLUS
+526;VANESSA SHARKS
+527;Veend By
+528;Victor Furini
+529;VIRTO
+530;Viva Imóveis
+531;Xis Imóveis
+543;Adão On
+542;Adão Una
+24;Caroline Neri - Autônomos
+1;Corretores de Mercado
+536;Cronos Imóveis
+206;ERRO
+541;House Portal do Sol Urbanismo
+13;ImobFelipe
+11;LIXO SERVE PRA NADA
+534;Luiz Claudio Silva de Alvarenga
+532;Michael Yann - Autônomos
+539;Rogério Araújo Zenon
+537;SHARKS IMOBILIÁRIA BUENO
+538;SHARKS IMOBILIÁRIA MARISTA
+16;TESTE01
+540;Valtuir borges da silva
+11;Obsoletos
+544;Aevo Marista 2
+545;Le Office investimentos imobiliários
