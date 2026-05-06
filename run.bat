@@ -16,8 +16,7 @@ if exist ".venv\Scripts\activate.bat" (
 )
 
 echo.
-echo [INFO] Verificando e instalando dependencias...
-pip install -r requirements.txt
+pip install -q -r requirements.txt 2>nul
 
 echo.
 echo [INFO] Iniciando o Menu Interativo...
