@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 root_path = Path(__file__).resolve().parent.parent.parent
 sys.path.append(str(root_path))
 
-from utils.helpers import detect_delimiter, load_env, get_api_config
+from utils.helpers import detect_delimiter, load_env, get_api_config, create_backup
 
 # Carregar config centralizada
 BASE_URL, HEADERS_CITY, COOKIES = get_api_config()
@@ -111,6 +111,10 @@ def main():
     all_rows.sort(key=lambda x: int(x["id_sup"]) if x["id_sup"].isdigit() else 0)
         
     print(f">>> Processamento concluído. Total de {len(all_rows)} vínculos encontrados.")
+    
+    # Criar backup antes de salvar
+    create_backup(CSV_PATH)
+    
     save_csv(all_rows)
     print(f">>> Dados salvos e ordenados em {CSV_PATH}")
 

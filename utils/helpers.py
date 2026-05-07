@@ -33,6 +33,25 @@ def load_env():
                     env[k.strip()] = v.strip()
     return env
 
+import shutil
+from datetime import datetime
+
+def create_backup(file_path):
+    """Cria uma cópia de segurança do arquivo em csv/backup/."""
+    file_path = Path(file_path)
+    if not file_path.exists():
+        return
+        
+    backup_dir = file_path.parent / "backup"
+    backup_dir.mkdir(exist_ok=True)
+    
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    backup_name = f"{file_path.stem}_{timestamp}{file_path.suffix}"
+    backup_path = backup_dir / backup_name
+    
+    shutil.copy2(file_path, backup_path)
+    print(f">>> Backup criado: {backup_path}")
+
 def get_api_config():
     """Retorna headers e cookies configurados no .env."""
     env = load_env()

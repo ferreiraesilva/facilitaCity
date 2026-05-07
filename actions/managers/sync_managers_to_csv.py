@@ -8,7 +8,7 @@ from pathlib import Path
 root_path = Path(__file__).resolve().parent.parent.parent
 sys.path.append(str(root_path))
 
-from utils.helpers import detect_delimiter, get_api_config
+from utils.helpers import detect_delimiter, get_api_config, create_backup
 
 # Carregar config centralizada
 BASE_URL, HEADERS, COOKIES = get_api_config()
@@ -48,6 +48,7 @@ def fetch_all_managers():
         try:
             resp = requests.post(URL, headers=HEADERS, cookies=COOKIES, json=payload, timeout=30)
             if resp.status_code != 200:
+                print(f"  [ERRO] API retornou status {resp.status_code}: {resp.text[:200]}")
                 break
             data = resp.json()
             total_records = data.get("recordsTotal", 0)
@@ -55,7 +56,8 @@ def fetch_all_managers():
             if not items: break
             all_data.extend(items)
             start += length
-        except Exception:
+        except Exception as e:
+            print(f"  [EXCEÇÃO] {e}")
             break
             
     print(f">>> Consulta concluída. Total de gerentes coletados: {len(all_data)}")
@@ -81,6 +83,7 @@ def save_to_csv(managers):
 def main():
     managers = fetch_all_managers()
     if managers:
+        create_backup(CSV_PATH)
         save_to_csv(managers)
 
 if __name__ == "__main__":

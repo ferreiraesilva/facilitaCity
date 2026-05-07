@@ -1,669 +1,705 @@
-﻿Id;Nome;Email;idImobiliaria;Imobiliaria
-1258;teste leo;testleo.diagnostico@cityinc.com.br;11;OBSOLETOS
-1247;Luiz Carlos de castro Oliveira Junior;luiz.carlos@cityvendas.com.br;91;City Vendas
-1246;Paulo Vinícius Elias ;Paulovinicius.silva@cityvendas.com.br;91;City Vendas
-1245;Caio Henrique Alves Santana;Caio.santana@cityvendas.com.br;91;City Vendas
-1244;Fernando Takaaki Wada;fernando.wada@cityvendas.com.br;91;City Vendas
-1243;Lucas Dias Souto;dias@cityvendas.com.br;91;City Vendas
-1242;Moisés Verginio Garcia;moises.garcia@cityvendas.com.br;91;City Vendas
-1241;Priscila Hertel;priscila.hertel@cityvendas.com.br;91;City Vendas
-1240;Luiz Felipe Miranda;luizfelipe.miranda@cityvendas.com.br;91;City Vendas
-1239;Eloy Garcia Carreno;eloy.carreno@cityvendas.com.br;91;City Vendas
-1238;Gerente - Adão Mais;manager_546@goscore.com.br;546;Adão Mais
-1204;Gerente - Le Office investimentos imobiliários;manager_545@goscore.com.br;545;Le Office investimentos imobiliários
-1203;Gerente - Aevo Marista 2;manager_544@goscore.com.br;544;Aevo Marista 2
-1197;Sônia Soares;Sonia.sores@gmail.com;377;Sônia Soares
-1196;Rodrigo Marcante de Mattos;rodrigomarcante.marcante@gmail.com;373;Rodrigo Marcante de Mattos
-1195;REGINALDO WANTUIL SILVA DE PAULA;reginaldowantuilsp@gmail.com;374;RW Imóveis
-1194;Leonardo de Araújo Lima Freitas;leofreitasimovel@gmail.com;363;Leonardo de Araújo Lima Freitas
-1193;Humberto Reis;humberto.reis@consciente.com.br;350;Consciente Vendas
-1192;Hebert Silva Cardoso;hebert@kassifi.com.br;361;Kassifi imóveis Ltda
-1191;Guilherme Salomão Guimarães Oliveira;guilhermesalomao.direito@hotmail.com;357;Guilherme Salomão
-1190;Gladestone Ferreira de Sousa Junior;Gladsjunior@gmail.com;355;GJ NEGÓCIOS IMOBILIÁRIOS
-1189;Franklin Carvalho Cunha;franklin.cv@outlook.com;354;Franklin Carvalho
-1188;Fernando Rodrigues Ferreira;fernandorodriguesferreria030@gmail.com;364;Like Imobiliária
-1187;Aurican ramos caiado neto;auricancaiado@gmail.com;344;Aurican Ramos
-1186;Abedias José Evangelista Souza;abediassouza@gmail.com;339;Abedias Souza
-1185;Wictor Junqueira Machado;wictormachado.pointer@gmail.com;322;Pointer Imobiliária
-1184;SIMONE OLIVEIRA;simone.sco.imoveis@gmail.com;333;SIX PARTNERS
-1183;Shirlei das Graças Alves;sgaimoveis@creci.org.br;332;Shirley Allves
-1182;Renato luiz lozi leite;Renatoobterimoveis@gmail.com;313;Obter
-1181;Regina de Oliveira Neves (mercado);reginaimoveis09@gmail.com;328;Regina Neves
-1180;Regiane Rageldes de Rezende;regiane@visioimoveis.com;337;Visio Imóveis
-1179;Osmar Afonso Barbosa;osmarbarbosaimoveis@gmail.com;318;Osmar Afonso Barbosa
-1178;Jorge Aziz Cosac Neto;JORGECOSAC@HOTMAIL.COM;301;JC BROKERS
-1177;Hyagha mayra Souza Sudario;hiaga_souza@hotmail.com;316;Open hauz
-1176;FELIPE COSTA TEIXEIRA MACHADO;felipemickey@adaon.com.br;543;Adão On
-1175;Fabíola Cardoso da Silva;fabiolacardosocs@gmail.com;283;Fabíola Cardoso da Silva
-1174;Fabiano Pereira Baptista;fabiano.pereira@oniximob.com.br;315;Onix Imobiliária
-1173;Ériton Ferreira Frota;eritonfrota@gmail.com;288;Frota Imob
-1172;Erika Elyne de Paula;erika@adaouna.com.br;542;Adão Una
-1171;Ediberto Morais Jardim Filho;ediberto@portaldosolurbanismo.com.br;541;House Portal do Sol Urbanismo
-1170;Debbora de Queiroz;debbora@dqimoveis.com;281;DQ Business Consultoria Imobiliária
-1169;Makley Guedes Claudino;claudinoimoveisgo@gmail.com;278;Claudino Imóveis
-1168;CAROLINE ALVES MESQUITA;Carolinemesquita@topproducer.com.br;302;LCRI NEGOCIOS IMOBILIAROS LTDA - Imobiliária TOP
-1167;Anderson Cardoso da silva;cardosoandersonacs@gmail.com;270;Anderson Cardoso da silva
-1166;Andressa Leite;andressa.leite@gmail.com;263;Adão Virto
-1165;Adriana Guion Monteiro;adrianaguioncorretoraimoveis@gmail.com;265;Adriana Guion
-1164;Valtuir borges da silva;valtuirborges@gmail.com;540;Valtuir borges da silva
-1163;Saulo Silva;saulomartins_silva@hotmail.com;249;Saulo Silva
-1162;Rogério Araújo Zenon;rogeriozenon33@gmail.com;539;Rogério Araújo Zenon
-1161;Rogério Gomes de Freitas;rogeriotti@creci.org.br;247;Rogério Gomes de Freitas
-1160;Renato Leão da Silva Vieira;renatoleao.comercial@gmail.com;245;Portfolio Prime
-1159;Reginaldo Abdala Filho;Reginaldo@portfolioimoveis.com.br;243;Portfólio Jardim Goiás
-1158;RAFAEL MONJOLO;RAFAEL@VITTAIMB.COM;253;Vitta Imobiliária
-1157;PETRA RHUSKAYA;PETRARHUSKAYACOME@GMAIL.COM;242;Petra Imóveis
-1156;Pedro botosso de amorim;Pedrobotosso@hotmail.com;240;Pedro botosso de amorim
-1155;Pedro Augusto Ramos Gomes;pedroaugustoramosimoveis@gmail.com;239;PARG imóveis
-1154;Mauricio Agapito dos Santos Jr;mauricio.consultor42@gmail.com;234;Mauricio Agapito dos Santos Jr
-1153;MATHEUS FONTANELLA;matheusfontanella@verus.imb.br;252;VERUS IMOBILIARIA
-1152;Mário Luiz Leite;mario.leite@awmimoveis.com.br;209;AWM IMÓVEIS
-1151;Marcos Aurélio Magalhães Abrão;Marcosamabrao@gmail.com;232;M A Negócios Imobiliários Ltda
-1150;Marcio Mendonça Pedroza;marciopedrozabroker@gmail.com;241;Pedroza Imóveis
-1149;Wagner Luiz Costa dos Santos;luizwagnersantos@gmail.com;254;Wagner Luiz Costa dos Santos
-1148;LUIS FLÁVIO DA SILVA JUNIOR;LUISFLAVIOJR@ICLOUD.COM;230;LF REAL STATE LTDA
-1147;Luciana Rezio;lucianarezio@hotmail.com;538;SHARKS IMOBILIÁRIA MARISTA
-1146;LEONARDO ALMEIDA;LEONARDOALMEIDA.IMB@GMAIL.COM;228;Leonardo Almeida
-1145;LEANDRO MARCELINO DE SOUZA;LEANDRO.MARCELINO@M2IN.COM.BR;233;M2
-1144;Thiago rodrigues;thiagogi.sharks@gmail.com;537;SHARKS IMOBILIÁRIA BUENO
-1143;Fernando Barcelos Fernandes;fernandobarcelos77@gmail.com;207;3 MORADAS
-1142;Eliane Fernandes de Ataídes Castro;eliane_fernandes1304@hotmail.com;536;Cronos Imóveis
-1141;Douglas Torres;Douglas.torresimob@gmail.com;235;Máxima Imob
-1140;DENISE BRITO;DENISEBRITO.CORRETORA@GMAIL.COM;219;Denise Brito
-1139;DENES RESENDE;DENES.RESENDE@GMAIL.COM;218;DENES RESENDE
-1138;Darilo Petineli;darilo@hoppimoveis.com.br;225;Hopp Imóveis
-1137;Leonardo Borges Alves Cavalcante;cavacalcanteleonardo25@gmail.com;229;Leonardo Borges
-1136;Alessandro Gonçalves Nascimento;alessandroagn0509@gmail.com;244;PORTFÓLIO MARISTA
-1135;Thiago Augustus do A. Oliveira;thiago@valus.com.br;204;Valus Marista
-1134;Renato Rodrigues Silva dos Santos;Renators.rsimoveis@gmail.com;185;Rs Imóveis
-1133;Pedro Paullo Santos Ferreira;pedro@futurarv.com.br;175;Futura Imóveis
-1132;Nayanne Nascimento;Nayannenascimentobarros@gmail.com;201;Urbs Seven
-1131;Marcus Vinicius Silva Leão;marcus.leao@mlimoveisgyn.com.br;178;ML Imóveis Ltda.
-1130;Kamila Manzi da Cruz fonte boa;Kamanziimoveis@gmail.com;177;Kamanzi Imóveis
-1129;Juliano Henrique Duarte Junqueira;julianoduarte@urbsrt.com.br;195;URBS Infinity
-1128;Jose Humberto Carvalho;Jorge@urbsrt.com.br;199;URBS Private
-1127;Ezequias aredes;ezequiasa.xavier@gmail.com;173;AREDES imóveis
-1126;DANIEL DE PAIVA E SALES;daniel.sales@urbsrt.com.br;198;URBS Piri
-1125;Anderson Andreoli;Andreoli@urbsrt.com.br;192;URBS Connect
-1124;Zimar Gomes da Silva;zimar.corretor@gmail.com;171;Zimar Gomes
-1123;Weudson Saraiva Ribeiro;Weudsonsaraiva@gmail.com;169;Weudson Saraiva Ribeiro
-1122;RODRIGO BORGES TAQUARY;taquaryinvest@gmail.com;162;Taquary Imoveis
-1121;Talita Michele Gomes de Oliveira;talita_moliveira@hotmail.com;160;Talita Michele Gomes de Oliveira
-1120;Ricardo Augusto Borges Soares;Ricardo.augusto@mybrokerimoveis.com.br;137;MB Eldorado
-1119;Jady Rebecca Santos da Silva Rodrigues;rebecca@rebeccaimoveis.com.br;155;Rebecca imóveis
-1118;Guilherme Pina do Carmo;pinadocarmo@gmail.com;113;Guilherme Pina
-1117;MARIANA HERBERT;marianacastroviejo.corretor@gmail.com;142;MB Marista
-1116;María Luiza de Araújo Souza;malu.carneiro13@gmail.com;131;Malu Carneiro
-1115;Luiz Cláudio Silva;luiz@tandoorimoveis.com.br;161;Tandoor Imóveis
-1114;Leika Aparecida Laureano;Leikalauap@gmail.com;126;Leika Aparecida Laureano
-1113;Kelly Cristina Barbosa da Silva;kelly.investimentosbtc@gmail.com;124;Kelly Cristina Barbosa da Silva
-1112;Josimeire Teixeira Sousa;Jositeixeirabrooker@gmail.com;122;Josimeire Teixeira Sousa
-1111;José Marcos Moreira filho;josemarcosmoreira10@gmail.com;121;JOSÉ MARCOS MOREIRA FILHO
-1110;Jeniffer Vieira Padua;jenifferimoveisgoiania@gmail.com;120;Jennifer Imóveis
-1109;Igor Pinheiro da Silva;igorpinheiro144@gmail.com;154;Piinari
-1108;Firmino Amancio Da Silva Filho;firminofilhoconsultorimobiliario@outlook.com;111;Firmino Filho
-1107;Ezí Mendes;eziimoveis@gmail.com;110;Ezi Imoveis
-1106;Ednardo Montez Pimentel;ednardopimentel@gmail.com;168;Wesley Ednardo Pimentel
-1105;Gustavo bispo leal;bispo@novamercadoimobiliario.com.br;152;Nova Imobiliária
-1104;Antônio Carlos Moura de Araújo;antoniomaraujo@hotmail.com;93;ADM Imobiliária
-1103;ANDRÉ FLEURY;andre.fleury@mybrokerimoveis.com.br;136;MB Bueno
-1102;Tailyng dos Reis Coelho;Tailyng@pciimoveis.com;72;PCI imóveis
-1101;Ricardo Ribas Lopes;Ricardoribasimoveis@gmail.com;82;Ricardo Ribas Imóveis
-1100;FABIO MAGALHÃES;magalhaes@m360imoveis.com;62;M360 IMOVEIS
-1099;Luiz Claudio Silva de Alvarenga;luizclaudioalvarenga@gmail.com;534;Luiz Claudio Silva de Alvarenga
-1098;LUCAS CARVALHO;lucas@carvalhoimoveisgo.com.br;32;CARVALHO IMÓVEIS
-1097;Leonardo Lacerda;Leonardolacerdafelix@gmail.com;52;Leonardo Lacerda
-1096;Leandro T Zortea;leandro.zortea@gmail.com;57;LTZ IMOVEIS
-1095;JOÃO VICTOR NONATO;joaovictor@nonatoimoveis.com.br;67;NONATO IMÓVEIS
-1094;Heracléia Aparecida Franco Marques Carvalho;heracleiafranco@gmail.com;48;Heracléia Aparecida Franco Marques Carvalho
-1093;FREDERIDO PRUDENTE MACHADO;fredimobcasabella@gmail.com;34;CASABELLA IMOBILIARIA
-1092;Fortunato Pedroza;fopedrozza@gmail.com;45;Fortunato Pedroza
-1091;FERNANDO FERNANDES;fernandofernandes@remax.com.br;80;REMAX
-1090;Fabiana Ribeiro Mundim;fabiana.mundim@icloud.com;43;Fabiana Mundim
-1089;Carolayny Carvalho Lima;carolcachimbo@gmail.com;30;Carolayny Carvalho Lima
-1088;Bráulio Rodrigues Duarte;braulio.goiania@gmail.com;68;OPC PRIME
-1087;Ana Mônica Barbosa da Cunha;anamonicacunha25@gmail.com;19;Ana Mônica Barbosa da Cunha
-1086;Gerente - Adão On;manager_543@goscore.com.br;543;Adão On
-1085;Gerente - Adão Una;manager_542@goscore.com.br;542;Adão Una
-1084;Gerente - House Portal do Sol Urbanismo;manager_541@goscore.com.br;541;House Portal do Sol Urbanismo
-1083;Gerente - Valtuir borges da silva;manager_540@goscore.com.br;540;Valtuir borges da silva
-1082;Gerente - Rogério Araújo Zenon;manager_539@goscore.com.br;539;Rogério Araújo Zenon
-1081;Gerente - SHARKS IMOBILIÁRIA MARISTA;manager_538@goscore.com.br;538;SHARKS IMOBILIÁRIA MARISTA
-1080;Gerente - SHARKS IMOBILIÁRIA BUENO;manager_537@goscore.com.br;537;SHARKS IMOBILIÁRIA BUENO
-1079;Gerente - Cronos Imóveis;manager_536@goscore.com.br;536;Cronos Imóveis
-1078;Gerente - Eliane Fernandes de Ataídes Castro;manager_535@goscore.com.br;11;OBSOLETOS
-1077;Gerente - Luiz Claudio Silva de Alvarenga;manager_534@goscore.com.br;534;Luiz Claudio Silva de Alvarenga
-1076;Gerente - #NAME?;manager_533@goscore.com.br;12;Equipe TESTE
-1074;GERENTE_006;gerente_006@teste.com;84;SOUSA ANDRADE VENDAS
-1073;GERENTE_005;gerente_005@teste.com;109;Exho
-1072;GERENTE_004;gerente_004@teste.com;142;MB Marista
-1071;GERENTE_003;gerente_003@teste.com;119;IZZI IMOVEIS
-1070;GERENTE_002;gerente_002@teste.com;18;ALLGE IMÓVEIS
-1069;GERENTE_001;gerente_001@teste.com;17;ACTOS IMOVEIS
-1068;Gerente - Michael Yann - Autônomos;manager_532@goscore.com.br;532;Michael Yann - Autônomos
-1057;teste_001;teste@cityinc.com.br;11;OBSOLETOS
-1048;Gerente - Xis Imóveis;manager_531@goscore.com.br;11;OBSOLETOS
-1047;Gerente - Viva Imóveis;manager_530@goscore.com.br;11;OBSOLETOS
-1046;Gerente - VIRTO;manager_529@goscore.com.br;11;OBSOLETOS
-1045;Gerente - Victor Furini;manager_528@goscore.com.br;11;OBSOLETOS
-1044;Gerente - Veend By;manager_527@goscore.com.br;11;OBSOLETOS
-1043;Gerente - VANESSA SHARKS;manager_526@goscore.com.br;11;OBSOLETOS
-1042;Gerente - VALLUS;manager_525@goscore.com.br;11;OBSOLETOS
-1041;Gerente - URBS Opportunity;manager_524@goscore.com.br;11;OBSOLETOS
-1040;Gerente - URBS +;manager_523@goscore.com.br;11;OBSOLETOS
-1039;Gerente - URBE CONSULTORIA;manager_522@goscore.com.br;11;OBSOLETOS
-1038;Gerente - Times Imobiliária;manager_521@goscore.com.br;11;OBSOLETOS
-1037;Gerente - Thiago Alencar;manager_520@goscore.com.br;11;OBSOLETOS
-1036;Gerente - The House Imobiliária;manager_519@goscore.com.br;11;OBSOLETOS
-1035;Gerente - Thales Cárfaro;manager_518@goscore.com.br;11;OBSOLETOS
-1034;Gerente - THAISA DURANTE;manager_517@goscore.com.br;11;OBSOLETOS
-1033;Gerente - THAIS URZEDA;manager_516@goscore.com.br;11;OBSOLETOS
-1032;Gerente - Thais Nascimento;manager_515@goscore.com.br;11;OBSOLETOS
-1031;Gerente - Terrazo Imóveis;manager_514@goscore.com.br;11;OBSOLETOS
-1030;Gerente - Terra Imóveis;manager_513@goscore.com.br;11;OBSOLETOS
-1029;Gerente - Tempus Imobiliária;manager_512@goscore.com.br;11;OBSOLETOS
-1028;Gerente - TAL OPPORTUNITY;manager_511@goscore.com.br;11;OBSOLETOS
-1027;Gerente - SPEs Imóveis;manager_510@goscore.com.br;11;OBSOLETOS
-1026;Gerente - SOLOT IMOVEIS;manager_509@goscore.com.br;11;OBSOLETOS
-1025;Gerente - SHARKS MARISTA;manager_508@goscore.com.br;11;OBSOLETOS
-1024;Gerente - Select;manager_507@goscore.com.br;11;OBSOLETOS
-1023;Gerente - Seguro Imoveis;manager_506@goscore.com.br;11;OBSOLETOS
-1022;Gerente - SANDRO MONTAGNA;manager_505@goscore.com.br;11;OBSOLETOS
-1021;Gerente - Salazar;manager_504@goscore.com.br;11;OBSOLETOS
-1020;Gerente - Ruy Costa;manager_503@goscore.com.br;11;OBSOLETOS
-1019;Gerente - RS SANTOS;manager_502@goscore.com.br;11;OBSOLETOS
-1018;Gerente - RS Investimentos;manager_501@goscore.com.br;11;OBSOLETOS
-1017;Gerente - Ronaldo Kuhn;manager_500@goscore.com.br;11;OBSOLETOS
-1016;Gerente - ROGIO XAVIER PEZZOTTI;manager_499@goscore.com.br;11;OBSOLETOS
-1015;Gerente - Rodovalho;manager_498@goscore.com.br;11;OBSOLETOS
-1014;Gerente - Ricardo Ferreira;manager_497@goscore.com.br;11;OBSOLETOS
-1013;Gerente - RICARDO ALESSANDRI HOUSER;manager_496@goscore.com.br;11;OBSOLETOS
-1012;Gerente - Reilla Freitas;manager_495@goscore.com.br;11;OBSOLETOS
-1011;Gerente - Raquel Cristina;manager_494@goscore.com.br;11;OBSOLETOS
-1010;Gerente - Prospera Soluções Imobiliárias;manager_493@goscore.com.br;11;OBSOLETOS
-1009;Gerente - Portifolio;manager_492@goscore.com.br;11;OBSOLETOS
-1008;Gerente - Portfólio Imóveis;manager_491@goscore.com.br;11;OBSOLETOS
-1007;Gerente - PORTFÓLIO;manager_490@goscore.com.br;11;OBSOLETOS
-1006;Gerente - Point Imóveis;manager_489@goscore.com.br;11;OBSOLETOS
-1005;Gerente - PERFECT HOUSE SOLUCOES IMOBILIARIAS;manager_488@goscore.com.br;11;OBSOLETOS
-1004;Gerente - Pedro Henrique;manager_487@goscore.com.br;11;OBSOLETOS
-1003;Gerente - PAULO RODRIGUES SHARKS;manager_486@goscore.com.br;11;OBSOLETOS
-1002;Gerente - PAULA PORTFÓLIO MARISTA;manager_485@goscore.com.br;11;OBSOLETOS
-1001;Gerente - OTÁVIO SHARKS IMOBILIÁRIA;manager_484@goscore.com.br;11;OBSOLETOS
-1000;Gerente - NUNO GOIS;manager_483@goscore.com.br;11;OBSOLETOS
-999;Gerente - Nu Company;manager_482@goscore.com.br;11;OBSOLETOS
-998;Gerente - Neiva Coelho;manager_481@goscore.com.br;11;OBSOLETOS
-997;Gerente - MY HUNTER;manager_480@goscore.com.br;11;OBSOLETOS
-996;Gerente - Minha Imobiliária;manager_479@goscore.com.br;11;OBSOLETOS
-995;Gerente - MICHELY MIL FAZENDAS;manager_478@goscore.com.br;11;OBSOLETOS
-994;Gerente - MICHELINI AWM;manager_477@goscore.com.br;11;OBSOLETOS
-993;Gerente - Melo Terra Vip;manager_476@goscore.com.br;11;OBSOLETOS
-992;Gerente - MB Pq Amazonia;manager_475@goscore.com.br;11;OBSOLETOS
-991;Gerente - Mb Oeste;manager_474@goscore.com.br;11;OBSOLETOS
-990;Gerente - MB Jaó;manager_473@goscore.com.br;11;OBSOLETOS
-989;Gerente - MB Infinity;manager_472@goscore.com.br;11;OBSOLETOS
-988;Gerente - Mb Exclusive;manager_471@goscore.com.br;11;OBSOLETOS
-987;Gerente - MB BOUGAINVILLE;manager_470@goscore.com.br;11;OBSOLETOS
-986;Gerente - Mb 5° Avenida;manager_469@goscore.com.br;11;OBSOLETOS
-985;Gerente - Mayconn Braga;manager_468@goscore.com.br;11;OBSOLETOS
-984;Gerente - Mariana Gomes;manager_467@goscore.com.br;11;OBSOLETOS
-983;Gerente - Marcos Leão;manager_466@goscore.com.br;11;OBSOLETOS
-982;Gerente - Marcos Aurélio;manager_465@goscore.com.br;11;OBSOLETOS
-981;Gerente - Marco Antônio;manager_464@goscore.com.br;11;OBSOLETOS
-980;Gerente - Márcio Pedroza;manager_463@goscore.com.br;11;OBSOLETOS
-979;Gerente - Marcelo Azeredo;manager_462@goscore.com.br;11;OBSOLETOS
-978;Gerente - Luis Flávio;manager_461@goscore.com.br;11;OBSOLETOS
-977;Gerente - Lucelma Veli;manager_460@goscore.com.br;11;OBSOLETOS
-976;Gerente - Lucelia Santos de Oliveira;manager_459@goscore.com.br;11;OBSOLETOS
-975;Gerente - Luana Devanir;manager_458@goscore.com.br;11;OBSOLETOS
-974;Gerente - Lilian Nunes;manager_457@goscore.com.br;11;OBSOLETOS
-973;Gerente - LF Imóveis;manager_456@goscore.com.br;11;OBSOLETOS
-972;Gerente - Leonardo Rebouças;manager_455@goscore.com.br;11;OBSOLETOS
-971;Gerente - Lenardo Borges;manager_454@goscore.com.br;11;OBSOLETOS
-970;Gerente - Leidyane Duarte;manager_453@goscore.com.br;11;OBSOLETOS
-969;Gerente - LANE PARANHOS;manager_452@goscore.com.br;11;OBSOLETOS
-968;Gerente - Kunnert Imóveis;manager_451@goscore.com.br;11;OBSOLETOS
-967;Gerente - Klauss de Meneses;manager_450@goscore.com.br;11;OBSOLETOS
-966;Gerente - Kenia Martins do Vale;manager_449@goscore.com.br;11;OBSOLETOS
-965;Gerente - Kelly Maia;manager_448@goscore.com.br;11;OBSOLETOS
-964;Gerente - Juntos Imobiliária;manager_447@goscore.com.br;11;OBSOLETOS
-963;Gerente - JULIO TERRA;manager_446@goscore.com.br;11;OBSOLETOS
-962;Gerente - Juliana Coelho;manager_445@goscore.com.br;11;OBSOLETOS
-961;Gerente - JS Imóveis;manager_444@goscore.com.br;11;OBSOLETOS
-960;Gerente - Joyce Rodrigues;manager_443@goscore.com.br;11;OBSOLETOS
-959;Gerente - Joselaine Volpi;manager_442@goscore.com.br;11;OBSOLETOS
-958;Gerente - Joao Vitor de Araujo Macedo;manager_441@goscore.com.br;11;OBSOLETOS
-957;Gerente - JOÃO VICTOR NONATO;manager_440@goscore.com.br;11;OBSOLETOS
-956;Gerente - João Márcio;manager_439@goscore.com.br;11;OBSOLETOS
-955;Gerente - Ivany Brokers;manager_438@goscore.com.br;11;OBSOLETOS
-954;Gerente - INVISTTA IMOBILIARIA;manager_437@goscore.com.br;11;OBSOLETOS
-953;Gerente - IN7 Imobiliária;manager_436@goscore.com.br;11;OBSOLETOS
-952;Gerente - Imobiliaria Marista;manager_435@goscore.com.br;11;OBSOLETOS
-951;Gerente - Iago Blayton;manager_434@goscore.com.br;11;OBSOLETOS
-950;Gerente - HOUSE & AVIATION IMOBILIARIA;manager_433@goscore.com.br;11;OBSOLETOS
-949;Gerente - HOOP Imobiliária;manager_432@goscore.com.br;11;OBSOLETOS
-948;Gerente - Homes & Farms Imoveis;manager_431@goscore.com.br;11;OBSOLETOS
-947;Gerente - Henrique Luiz dos Santos;manager_430@goscore.com.br;11;OBSOLETOS
-946;Gerente - Habitart Imóveis;manager_429@goscore.com.br;11;OBSOLETOS
-945;Gerente - Glenda Imóveis;manager_428@goscore.com.br;11;OBSOLETOS
-944;Gerente - GABRIELLA GARCIA;manager_427@goscore.com.br;11;OBSOLETOS
-943;Gerente - Fraade Ramos;manager_426@goscore.com.br;11;OBSOLETOS
-942;Gerente - Fernando Medrado;manager_425@goscore.com.br;11;OBSOLETOS
-941;Gerente - Fernando Caixeta Sharks;manager_424@goscore.com.br;11;OBSOLETOS
-940;Gerente - Fernando Bueno;manager_423@goscore.com.br;11;OBSOLETOS
-939;Gerente - FERNANDA AZEVEDO;manager_422@goscore.com.br;11;OBSOLETOS
-938;Gerente - FERNANDA 3 MORADAS;manager_421@goscore.com.br;11;OBSOLETOS
-937;Gerente - Fabricio Monnerat;manager_420@goscore.com.br;11;OBSOLETOS
-936;Gerente - FABRÍCIO DUARTE;manager_419@goscore.com.br;11;OBSOLETOS
-935;Gerente - F&S Imobiliária;manager_418@goscore.com.br;11;OBSOLETOS
-934;Gerente - EXTREME IMOVEIS;manager_417@goscore.com.br;11;OBSOLETOS
-933;Gerente - Ética Imobiliária;manager_416@goscore.com.br;11;OBSOLETOS
-932;Gerente - ERIKA DE PAULA SHARKS;manager_415@goscore.com.br;11;OBSOLETOS
-931;Gerente - EMILIA Imóveis;manager_414@goscore.com.br;11;OBSOLETOS
-930;Gerente - Emilia Amin;manager_413@goscore.com.br;11;OBSOLETOS
-929;Gerente - Edvaldo Carlos Ramos;manager_412@goscore.com.br;11;OBSOLETOS
-928;Gerente - Edilson Cruz;manager_411@goscore.com.br;11;OBSOLETOS
-927;Gerente - Douglas Torres;manager_410@goscore.com.br;11;OBSOLETOS
-926;Gerente - Domus;manager_409@goscore.com.br;11;OBSOLETOS
-925;Gerente - Dicastro;manager_408@goscore.com.br;11;OBSOLETOS
-924;Gerente - Deborah Cristina;manager_407@goscore.com.br;11;OBSOLETOS
-923;Gerente - Danillo Barbosa;manager_406@goscore.com.br;11;OBSOLETOS
-922;Gerente - Danielle Lemos Moreira;manager_405@goscore.com.br;11;OBSOLETOS
-921;Gerente - City Terrenos;manager_404@goscore.com.br;11;OBSOLETOS
-920;Gerente - City Indicação;manager_403@goscore.com.br;11;OBSOLETOS
-919;Gerente - Caza Gold;manager_402@goscore.com.br;11;OBSOLETOS
-918;Gerente - Casa Real;manager_401@goscore.com.br;11;OBSOLETOS
-917;Gerente - Caroline Michelone;manager_400@goscore.com.br;11;OBSOLETOS
-916;Gerente - Bume Imóveis;manager_399@goscore.com.br;11;OBSOLETOS
-915;Gerente - Bruno Faria;manager_398@goscore.com.br;11;OBSOLETOS
-914;Gerente - BRENO RIBEIRO;manager_397@goscore.com.br;11;OBSOLETOS
-913;Gerente - BR WORLD;manager_396@goscore.com.br;11;OBSOLETOS
-912;Gerente - BP Imobiliária (Bruno Peres);manager_395@goscore.com.br;11;OBSOLETOS
-911;Gerente - BNN Imóveis;manager_394@goscore.com.br;11;OBSOLETOS
-910;Gerente - Bliss Imobiliária;manager_393@goscore.com.br;11;OBSOLETOS
-909;Gerente - Bessa Imóveis;manager_392@goscore.com.br;11;OBSOLETOS
-908;Gerente - BASTIÃO PORTFÓLIO MARISTA;manager_391@goscore.com.br;11;OBSOLETOS
-907;Gerente - Autimob;manager_390@goscore.com.br;11;OBSOLETOS
-906;Gerente - ARTUR VITORINO;manager_389@goscore.com.br;11;OBSOLETOS
-905;Gerente - Apus;manager_388@goscore.com.br;11;OBSOLETOS
-904;Gerente - Antônio Walter;manager_387@goscore.com.br;11;OBSOLETOS
-903;Gerente - ANNA KARLA HOUSER IMOBILIARIA;manager_386@goscore.com.br;11;OBSOLETOS
-902;Gerente - All Brokers;manager_385@goscore.com.br;11;OBSOLETOS
-901;Gerente - Aline de Sá;manager_384@goscore.com.br;11;OBSOLETOS
-900;Gerente - Adão Vision;manager_383@goscore.com.br;11;OBSOLETOS
-899;Gerente - Adão Vibe;manager_382@goscore.com.br;11;OBSOLETOS
-898;Gerente - Adão Solution;manager_381@goscore.com.br;11;OBSOLETOS
-897;Gerente - Adão Intense;manager_380@goscore.com.br;11;OBSOLETOS
-896;Gerente - Adão ADS;manager_379@goscore.com.br;11;OBSOLETOS
-895;Gerente - 1000 Fazendas;manager_378@goscore.com.br;11;OBSOLETOS
-894;Gerente - Sônia Soares;manager_377@goscore.com.br;377;Sônia Soares
-893;Gerente - Singus Imóveis;manager_376@goscore.com.br;376;Singus Imóveis
-892;Gerente - Seu Imóvel Goiânia;manager_375@goscore.com.br;375;Seu Imóvel Goiânia
-891;Gerente - RW Imóveis;manager_374@goscore.com.br;374;RW Imóveis
-890;Gerente - Rodrigo Marcante de Mattos;manager_373@goscore.com.br;373;Rodrigo Marcante de Mattos
-889;Gerente - Provenda;manager_372@goscore.com.br;372;Provenda
-888;Gerente - Polo Imóveis;manager_371@goscore.com.br;371;Polo Imóveis
-887;Gerente - Orla;manager_370@goscore.com.br;370;Orla
-886;Gerente - Mond Negócios;manager_369@goscore.com.br;369;Mond Negócios
-885;Gerente - Mirano Imóveis;manager_368@goscore.com.br;368;Mirano Imóveis
-884;Gerente - MELO DE MELO;manager_367@goscore.com.br;367;MELO DE MELO
-883;Gerente - Mais Novus;manager_366@goscore.com.br;366;Mais Novus
-882;Gerente - Luds Imobiliária;manager_365@goscore.com.br;365;Luds Imobiliária
-881;Gerente - Like Imobiliária;manager_364@goscore.com.br;364;Like Imobiliária
-880;Gerente - Leonardo de Araújo Lima Freitas;manager_363@goscore.com.br;363;Leonardo de Araújo Lima Freitas
-879;Gerente - Lago Premium imobiliária;manager_362@goscore.com.br;362;Lago Premium imobiliária
-878;Gerente - Kassifi imóveis Ltda;manager_361@goscore.com.br;361;Kassifi imóveis Ltda
-877;Gerente - K3R imóveis;manager_360@goscore.com.br;360;K3R imóveis
-876;Gerente - Jane Gardens;manager_359@goscore.com.br;359;Jane Gardens
-875;Gerente - Imobiliária Portal;manager_358@goscore.com.br;358;Imobiliária Portal
-874;Gerente - Guilherme Salomão;manager_357@goscore.com.br;357;Guilherme Salomão
-873;Gerente - Grupo Felizardo;manager_356@goscore.com.br;356;Grupo Felizardo
-872;Gerente - GJ NEGÓCIOS IMOBILIÁRIOS;manager_355@goscore.com.br;355;GJ NEGÓCIOS IMOBILIÁRIOS
-871;Gerente - Franklin Carvalho;manager_354@goscore.com.br;354;Franklin Carvalho
-870;Gerente - Exclusive imobiliária;manager_353@goscore.com.br;353;Exclusive imobiliária
-869;Gerente - Evo;manager_352@goscore.com.br;352;Evo
-868;Gerente - DOM;manager_351@goscore.com.br;351;DOM
-867;Gerente - Consciente Vendas;manager_350@goscore.com.br;350;Consciente Vendas
-866;Gerente - Cir Imobiliária;manager_349@goscore.com.br;349;Cir Imobiliária
-865;Gerente - CASA MODELO;manager_348@goscore.com.br;348;CASA MODELO
-864;Gerente - Casa 41;manager_347@goscore.com.br;347;Casa 41
-863;Gerente - BRASILÊRA IMÓVEIS;manager_346@goscore.com.br;346;BRASILÊRA IMÓVEIS
-862;Gerente - Weverton Otaviano - Autônomos;manager_345@goscore.com.br;345;Weverton Otaviano - Autônomos
-861;Gerente - Aurican Ramos;manager_344@goscore.com.br;344;Aurican Ramos
-860;Gerente - Atlanta Imóveis;manager_343@goscore.com.br;343;Atlanta Imóveis
-859;Gerente - Alfa Center;manager_342@goscore.com.br;342;Alfa Center
-858;Gerente - Aevo Marista;manager_341@goscore.com.br;341;Aevo Marista
-857;Gerente - AEVO JARDIM GOIÁS;manager_340@goscore.com.br;340;AEVO JARDIM GOIÁS
-856;Gerente - Abedias Souza;manager_339@goscore.com.br;339;Abedias Souza
-855;Gerente - VVS Negócios Imobiliários;manager_338@goscore.com.br;338;VVS Negócios Imobiliários
-854;Gerente - Visio Imóveis;manager_337@goscore.com.br;337;Visio Imóveis
-853;Gerente - TZ7 Imob.;manager_336@goscore.com.br;336;TZ7 Imob.
-852;Gerente - Telma Pires;manager_335@goscore.com.br;335;Telma Pires
-851;Gerente - Supreme;manager_334@goscore.com.br;334;Supreme
-850;Gerente - SIX PARTNERS;manager_333@goscore.com.br;333;SIX PARTNERS
-849;Gerente - Shirley Allves;manager_332@goscore.com.br;332;Shirley Allves
-848;Gerente - Royal Imobiiária;manager_331@goscore.com.br;331;Royal Imobiiária
-847;Gerente - Roggerio Lemez - Fleury;manager_330@goscore.com.br;330;Roggerio Lemez - Fleury
-846;Gerente - Rizzo Imobiliária;manager_329@goscore.com.br;329;Rizzo Imobiliária
-845;Gerente - Regina Neves;manager_328@goscore.com.br;328;Regina Neves
-844;Gerente - REALIZE IMÓVEIS;manager_327@goscore.com.br;327;REALIZE IMÓVEIS
-843;Gerente - RBB Imobiliária;manager_326@goscore.com.br;326;RBB Imobiliária
-842;Gerente - Raul Lesme;manager_325@goscore.com.br;325;Raul Lesme
-841;Gerente - Prado Imóveis;manager_324@goscore.com.br;324;Prado Imóveis
-840;Gerente - PontoCom;manager_323@goscore.com.br;323;PontoCom
-839;Gerente - Pointer Imobiliária;manager_322@goscore.com.br;322;Pointer Imobiliária
-838;Gerente - Paulo Henrique Imóveis;manager_321@goscore.com.br;321;Paulo Henrique Imóveis
-837;Gerente - Partini Vendas;manager_320@goscore.com.br;320;Partini Vendas
-836;Gerente - Pado Imóveis;manager_319@goscore.com.br;319;Pado Imóveis
-835;Gerente - Osmar Afonso Barbosa;manager_318@goscore.com.br;318;Osmar Afonso Barbosa
-834;Gerente - Ópera Soluções Imobiliárias;manager_317@goscore.com.br;317;Ópera Soluções Imobiliárias
-833;Gerente - Open hauz;manager_316@goscore.com.br;316;Open hauz
-832;Gerente - Onix Imobiliária;manager_315@goscore.com.br;315;Onix Imobiliária
-831;Gerente - Ohanna Aguiar;manager_314@goscore.com.br;314;Ohanna Aguiar
-830;Gerente - Obter;manager_313@goscore.com.br;313;Obter
-829;Gerente - Nov Imobiliária;manager_312@goscore.com.br;312;Nov Imobiliária
-828;Gerente - NEX Imoveis;manager_311@goscore.com.br;311;NEX Imoveis
-827;Gerente - N4 Imóveis;manager_310@goscore.com.br;310;N4 Imóveis
-826;Gerente - Match Imobiliária Conceito;manager_309@goscore.com.br;309;Match Imobiliária Conceito
-825;Gerente - Marcelo Simões;manager_308@goscore.com.br;308;Marcelo Simões
-824;Gerente - Mappa Imóveis;manager_307@goscore.com.br;307;Mappa Imóveis
-823;Gerente - MAD DOG;manager_306@goscore.com.br;11;OBSOLETOS
-822;Gerente - Luxury Imóveis;manager_305@goscore.com.br;305;Luxury Imóveis
-821;Gerente - Lótus Imobiliária;manager_304@goscore.com.br;304;Lótus Imobiliária
-820;Gerente - Legacy;manager_303@goscore.com.br;303;Legacy
-819;Gerente - LCRI NEGOCIOS IMOBILIAROS LTDA - Imobiliária TOP;manager_302@goscore.com.br;302;LCRI NEGOCIOS IMOBILIAROS LTDA - Imobiliária TOP
-818;Gerente - JC BROKERS;manager_301@goscore.com.br;301;JC BROKERS
-817;Gerente - Investt Imóveis;manager_300@goscore.com.br;300;Investt Imóveis
-816;Gerente - Imóvel Certo Gyn;manager_299@goscore.com.br;299;Imóvel Certo Gyn
-815;Gerente - Imobiliary;manager_298@goscore.com.br;298;Imobiliary
-814;Gerente - Imobiliária TOP;manager_297@goscore.com.br;297;Imobiliária TOP
-813;Gerente - Imobiliária Dinamic;manager_296@goscore.com.br;296;Imobiliária Dinamic
-812;Gerente - HOUSE YUTÁ;manager_295@goscore.com.br;11;OBSOLETOS
-811;Gerente - Home Buy;manager_294@goscore.com.br;294;Home Buy
-810;Gerente - Hogar Imóveis;manager_293@goscore.com.br;293;Hogar Imóveis
-809;Gerente - Gyn Consultoria;manager_292@goscore.com.br;292;Gyn Consultoria
-808;Gerente - GS Imóveis;manager_291@goscore.com.br;291;GS Imóveis
-807;Gerente - Grupo Delabona;manager_290@goscore.com.br;290;Grupo Delabona
-806;Gerente - Fulvio Santos;manager_289@goscore.com.br;289;Fulvio Santos
-805;Gerente - Frota Imob;manager_288@goscore.com.br;288;Frota Imob
-804;Gerente - Fidelitè;manager_287@goscore.com.br;287;Fidelitè
-803;Gerente - Felizardo Imóveis;manager_286@goscore.com.br;286;Felizardo Imóveis
-802;Gerente - FEDERAL IMÓVEIS;manager_285@goscore.com.br;285;FEDERAL IMÓVEIS
-801;Gerente - FAROL IMOBILIÁRIA;manager_284@goscore.com.br;284;FAROL IMOBILIÁRIA
-800;Gerente - Fabíola Cardoso da Silva;manager_283@goscore.com.br;283;Fabíola Cardoso da Silva
-799;Gerente - Evolution;manager_282@goscore.com.br;282;Evolution
-798;Gerente - DQ Business Consultoria Imobiliária;manager_281@goscore.com.br;281;DQ Business Consultoria Imobiliária
-797;Gerente - DATA IMOVEIS;manager_280@goscore.com.br;280;DATA IMOVEIS
-796;Gerente - Daniel Henrique de Oliveira Neves;manager_279@goscore.com.br;279;Daniel Henrique de Oliveira Neves
-795;Gerente - Claudino Imóveis;manager_278@goscore.com.br;278;Claudino Imóveis
-794;Gerente - Buy Home;manager_277@goscore.com.br;277;Buy Home
-793;Gerente - Black Hauss;manager_276@goscore.com.br;276;Black Hauss
-792;Gerente - Belarmino Imóveis;manager_275@goscore.com.br;275;Belarmino Imóveis
-791;Gerente - Azus Imobiliária;manager_274@goscore.com.br;274;Azus Imobiliária
-790;Gerente - Paula Tirabosqui - Autônomos;manager_273@goscore.com.br;273;Paula Tirabosqui - Autônomos
-789;Gerente - Astro Imobiliária;manager_272@goscore.com.br;272;Astro Imobiliária
-788;Gerente - Angela Villa;manager_271@goscore.com.br;271;Angela Villa
-787;Gerente - Anderson Cardoso da silva;manager_270@goscore.com.br;270;Anderson Cardoso da silva
-786;Gerente - AMJ Gestão Imobiliária;manager_269@goscore.com.br;269;AMJ Gestão Imobiliária
-785;Gerente - Alpha Soluções;manager_268@goscore.com.br;268;Alpha Soluções
-784;Gerente - Alitz Imóveis;manager_267@goscore.com.br;267;Alitz Imóveis
-783;Gerente - Aliga;manager_266@goscore.com.br;266;Aliga
-782;Gerente - Adriana Guion;manager_265@goscore.com.br;265;Adriana Guion
-781;Gerente - Adão X;manager_264@goscore.com.br;264;Adão X
-780;Gerente - Adão Virto;manager_263@goscore.com.br;263;Adão Virto
-779;Gerente - Adão Vida Nova;manager_262@goscore.com.br;262;Adão Vida Nova
-778;Gerente - Adão Unique;manager_261@goscore.com.br;261;Adão Unique
-777;Gerente - Adão Talent;manager_260@goscore.com.br;260;Adão Talent
-776;Gerente - Adão Solo;manager_259@goscore.com.br;259;Adão Solo
-775;Gerente - Adão Matriz;manager_258@goscore.com.br;258;Adão Matriz
-774;Gerente - Adão Action;manager_257@goscore.com.br;257;Adão Action
-773;Gerente - 41 Business;manager_256@goscore.com.br;256;41 Business
-772;Gerente - Xangai Imóveis;manager_255@goscore.com.br;255;Xangai Imóveis
-771;Gerente - Wagner Luiz Costa dos Santos;manager_254@goscore.com.br;254;Wagner Luiz Costa dos Santos
-770;Gerente - Vitta Imobiliária;manager_253@goscore.com.br;253;Vitta Imobiliária
-769;Gerente - VERUS IMOBILIARIA;manager_252@goscore.com.br;252;VERUS IMOBILIARIA
-768;Gerente - TAP NEGÓCIOS IMOBILIÁRIOS;manager_251@goscore.com.br;251;TAP NEGÓCIOS IMOBILIÁRIOS
-767;Gerente - SHARKS IMOBILIÁRIA JARDIM GOIÁS;manager_250@goscore.com.br;250;SHARKS IMOBILIÁRIA JARDIM GOIÁS
-766;Gerente - Saulo Silva;manager_249@goscore.com.br;249;Saulo Silva
-765;Gerente - Sarto Imóveis;manager_248@goscore.com.br;248;Sarto Imóveis
-764;Gerente - Rogério Gomes de Freitas;manager_247@goscore.com.br;247;Rogério Gomes de Freitas
-763;Gerente - Primmus Inteligência Imobiliária;manager_246@goscore.com.br;246;Primmus Inteligência Imobiliária
-762;Gerente - Portfolio Prime;manager_245@goscore.com.br;245;Portfolio Prime
-761;Gerente - PORTFÓLIO MARISTA;manager_244@goscore.com.br;244;PORTFÓLIO MARISTA
-760;Gerente - Portfólio Jardim Goiás;manager_243@goscore.com.br;243;Portfólio Jardim Goiás
-759;Gerente - Petra Imóveis;manager_242@goscore.com.br;242;Petra Imóveis
-758;Gerente - Pedroza Imóveis;manager_241@goscore.com.br;241;Pedroza Imóveis
-757;Gerente - Pedro botosso de amorim;manager_240@goscore.com.br;240;Pedro botosso de amorim
-756;Gerente - PARG imóveis;manager_239@goscore.com.br;239;PARG imóveis
-755;Gerente - Otavio Augusto Souza Almeida;manager_238@goscore.com.br;238;Otavio Augusto Souza Almeida
-754;Gerente - O Povo Imobiliária;manager_237@goscore.com.br;237;O Povo Imobiliária
-753;Gerente - Mil Imóvel;manager_236@goscore.com.br;236;Mil Imóvel
-752;Gerente - Máxima Imob;manager_235@goscore.com.br;235;Máxima Imob
-751;Gerente - Mauricio Agapito dos Santos Jr;manager_234@goscore.com.br;234;Mauricio Agapito dos Santos Jr
-750;Gerente - M2;manager_233@goscore.com.br;233;M2
-749;Gerente - M A Negócios Imobiliários Ltda;manager_232@goscore.com.br;232;M A Negócios Imobiliários Ltda
-748;Gerente - Lídder imobiliária;manager_231@goscore.com.br;231;Lídder imobiliária
-747;Gerente - LF REAL STATE LTDA;manager_230@goscore.com.br;230;LF REAL STATE LTDA
-746;Gerente - Leonardo Borges;manager_229@goscore.com.br;229;Leonardo Borges
-745;Gerente - Leonardo Almeida;manager_228@goscore.com.br;228;Leonardo Almeida
-744;Gerente - Imobiliária Vivá;manager_227@goscore.com.br;227;Imobiliária Vivá
-743;Gerente - Houser Consultoria Imobiliária Ltda;manager_226@goscore.com.br;226;Houser Consultoria Imobiliária Ltda
-742;Gerente - Hopp Imóveis;manager_225@goscore.com.br;225;Hopp Imóveis
-741;Gerente - Home Gyn;manager_224@goscore.com.br;224;Home Gyn
-740;Gerente - GH Imóveis;manager_223@goscore.com.br;223;GH Imóveis
-739;Gerente - Flávia Rodrigues Gomes;manager_222@goscore.com.br;222;Flávia Rodrigues Gomes
-738;Gerente - Fernando Henrique Arantes Medrado;manager_221@goscore.com.br;221;Fernando Henrique Arantes Medrado
-737;Gerente - Elison Bernardes;manager_220@goscore.com.br;220;Elison Bernardes
-736;Gerente - Denise Brito;manager_219@goscore.com.br;219;Denise Brito
-735;Gerente - DENES RESENDE;manager_218@goscore.com.br;218;DENES RESENDE
-734;Gerente - Cruz Imobiliária;manager_217@goscore.com.br;217;Cruz Imobiliária
-733;Gerente - COSTA IMÓVEIS;manager_216@goscore.com.br;216;COSTA IMÓVEIS
-732;Gerente - Conectiva Imóveis;manager_215@goscore.com.br;215;Conectiva Imóveis
-731;Gerente - CMO Vendas;manager_214@goscore.com.br;214;CMO Vendas
-730;Gerente - Breno Ananias;manager_213@goscore.com.br;213;Breno Ananias
-729;Gerente - Bravo Imobiliária;manager_212@goscore.com.br;212;Bravo Imobiliária
-728;Gerente - BR WORLD & REALTY;manager_211@goscore.com.br;211;BR WORLD & REALTY
-727;Gerente - Baiochi Imoveis;manager_210@goscore.com.br;210;Baiochi Imoveis
-726;Gerente - AWM IMÓVEIS;manager_209@goscore.com.br;209;AWM IMÓVEIS
-725;Gerente - Ornelas da Mata - Autônomos;manager_208@goscore.com.br;208;Ornelas da Mata - Autônomos
-724;Gerente - 3 MORADAS;manager_207@goscore.com.br;207;3 MORADAS
-723;Gerente - ERRO;manager_206@goscore.com.br;206;ERRO
-722;Gerente - Vesper Imóveis;manager_205@goscore.com.br;205;Vesper Imóveis
-721;Gerente - Valus Marista;manager_204@goscore.com.br;204;Valus Marista
-720;Gerente - VALUS JARDIM GOIÁS;manager_203@goscore.com.br;203;VALUS JARDIM GOIÁS
-719;Gerente - Vallóre Negócios Imobiliários;manager_202@goscore.com.br;202;Vallóre Negócios Imobiliários
-718;Gerente - Urbs Seven;manager_201@goscore.com.br;201;Urbs Seven
-717;Gerente - Urbs Realty;manager_200@goscore.com.br;200;Urbs Realty
-716;Gerente - URBS Private;manager_199@goscore.com.br;199;URBS Private
-715;Gerente - URBS Piri;manager_198@goscore.com.br;198;URBS Piri
-714;Gerente - URBS One;manager_197@goscore.com.br;197;URBS One
-713;Gerente - URBS Neo;manager_196@goscore.com.br;196;URBS Neo
-712;Gerente - URBS Infinity;manager_195@goscore.com.br;195;URBS Infinity
-711;Gerente - Urbs imobi;manager_194@goscore.com.br;194;Urbs imobi
-710;Gerente - URBS Donna;manager_193@goscore.com.br;193;URBS Donna
-709;Gerente - URBS Connect;manager_192@goscore.com.br;192;URBS Connect
-708;Gerente - URBS Conceito;manager_191@goscore.com.br;191;URBS Conceito
-707;Gerente - URBS Cerrado;manager_190@goscore.com.br;190;URBS Cerrado
-706;Gerente - URBS Brava;manager_189@goscore.com.br;189;URBS Brava
-705;Gerente - Urbs Alphamall;manager_188@goscore.com.br;188;Urbs Alphamall
-704;Gerente - TJ SOLUCOES IMOBILIARIAS LTDA;manager_187@goscore.com.br;187;TJ SOLUCOES IMOBILIARIAS LTDA
-703;Gerente - Thal Opportunity;manager_186@goscore.com.br;186;Thal Opportunity
-702;Gerente - Rs Imóveis;manager_185@goscore.com.br;185;Rs Imóveis
-701;Gerente - Peixoto Negócios Imobiliários Ltda;manager_184@goscore.com.br;184;Peixoto Negócios Imobiliários Ltda
-700;Gerente - OUR Imobi;manager_183@goscore.com.br;183;OUR Imobi
-699;Gerente - ONIRIA IMOVEIS;manager_182@goscore.com.br;182;ONIRIA IMOVEIS
-698;Gerente - Nítida Imóveis;manager_181@goscore.com.br;181;Nítida Imóveis
-697;Gerente - My Side;manager_180@goscore.com.br;180;My Side
-696;Gerente - Monferrari Imoveis;manager_179@goscore.com.br;179;Monferrari Imoveis
-695;Gerente - ML Imóveis Ltda.;manager_178@goscore.com.br;178;ML Imóveis Ltda.
-694;Gerente - Kamanzi Imóveis;manager_177@goscore.com.br;177;Kamanzi Imóveis
-693;Gerente - HOME CLASS SOLUÇÕES IMOBILIARIAS LTDA;manager_176@goscore.com.br;176;HOME CLASS SOLUÇÕES IMOBILIARIAS LTDA
-692;Gerente - Futura Imóveis;manager_175@goscore.com.br;175;Futura Imóveis
-691;Gerente - AWR IMÓVEIS;manager_174@goscore.com.br;174;AWR IMÓVEIS
-690;Gerente - AREDES imóveis;manager_173@goscore.com.br;173;AREDES imóveis
-689;Gerente - Arbo Imóveis;manager_172@goscore.com.br;172;Arbo Imóveis
-688;Gerente - Zimar Gomes;manager_171@goscore.com.br;171;Zimar Gomes
-687;Gerente - You;manager_170@goscore.com.br;170;You
-686;Gerente - Weudson Saraiva Ribeiro;manager_169@goscore.com.br;169;Weudson Saraiva Ribeiro
-685;Gerente - Wesley Ednardo Pimentel;manager_168@goscore.com.br;168;Wesley Ednardo Pimentel
-684;Gerente - Vicky;manager_167@goscore.com.br;167;Vicky
-683;Gerente - Urias Borges;manager_166@goscore.com.br;166;Urias Borges
-682;Gerente - Terral Vendas;manager_165@goscore.com.br;165;Terral Vendas
-681;Gerente - Tellure;manager_164@goscore.com.br;164;Tellure
-680;Gerente - Tcm;manager_163@goscore.com.br;163;Tcm
-679;Gerente - Taquary Imoveis;manager_162@goscore.com.br;162;Taquary Imoveis
-678;Gerente - Tandoor Imóveis;manager_161@goscore.com.br;161;Tandoor Imóveis
-677;Gerente - Talita Michele Gomes de Oliveira;manager_160@goscore.com.br;160;Talita Michele Gomes de Oliveira
-676;Gerente - SOHO IMOBILIÁRIA CONCEITO;manager_159@goscore.com.br;159;SOHO IMOBILIÁRIA CONCEITO
-675;Gerente - Rossi Imóveis;manager_158@goscore.com.br;158;Rossi Imóveis
-674;Gerente - Rodrigo Maroli;manager_157@goscore.com.br;157;Rodrigo Maroli
-673;Gerente - Renato Fernandes;manager_156@goscore.com.br;156;Renato Fernandes
-672;Gerente - Rebecca imóveis;manager_155@goscore.com.br;155;Rebecca imóveis
-671;Gerente - Piinari;manager_154@goscore.com.br;154;Piinari
-670;Gerente - OM Vendas;manager_153@goscore.com.br;153;OM Vendas
-669;Gerente - Nova Imobiliária;manager_152@goscore.com.br;152;Nova Imobiliária
-668;Gerente - Murilo Occhiena Gomes de Oliveira;manager_151@goscore.com.br;151;Murilo Occhiena Gomes de Oliveira
-667;Gerente - MGI House;manager_150@goscore.com.br;150;MGI House
-666;Gerente - Melhor Imóvel Soluções Imobiliárias;manager_149@goscore.com.br;149;Melhor Imóvel Soluções Imobiliárias
-665;Gerente - MB Vila Brasília;manager_148@goscore.com.br;148;MB Vila Brasília
-664;Gerente - MB Setor Sul;manager_147@goscore.com.br;147;MB Setor Sul
-663;Gerente - MB Senador Canedo;manager_146@goscore.com.br;146;MB Senador Canedo
-662;Gerente - MB pç do Sol;manager_145@goscore.com.br;145;MB pç do Sol
-661;Gerente - MB Parque Amazônia;manager_144@goscore.com.br;144;MB Parque Amazônia
-660;Gerente - MB Office;manager_143@goscore.com.br;143;MB Office
-659;Gerente - MB Marista;manager_142@goscore.com.br;142;MB Marista
-658;Gerente - MB Jd America;manager_141@goscore.com.br;141;MB Jd America
-657;Gerente - MB Jardim Goiás;manager_140@goscore.com.br;140;MB Jardim Goiás
-656;Gerente - MB Independência;manager_139@goscore.com.br;139;MB Independência
-655;Gerente - MB Garavelo;manager_138@goscore.com.br;138;MB Garavelo
-654;Gerente - MB Eldorado;manager_137@goscore.com.br;137;MB Eldorado
-653;Gerente - MB Bueno;manager_136@goscore.com.br;136;MB Bueno
-652;Gerente - MB Buena Vista;manager_135@goscore.com.br;135;MB Buena Vista
-651;Gerente - MB Areião;manager_134@goscore.com.br;134;MB Areião
-650;Gerente - MB Alpha Mall;manager_133@goscore.com.br;133;MB Alpha Mall
-649;Gerente - Marista Imóveis;manager_132@goscore.com.br;132;Marista Imóveis
-648;Gerente - Malu Carneiro;manager_131@goscore.com.br;131;Malu Carneiro
-647;Gerente - LVD Gestão Imobiliária Ltda;manager_130@goscore.com.br;130;LVD Gestão Imobiliária Ltda
-646;Gerente - Luciana Gurgel;manager_129@goscore.com.br;129;Luciana Gurgel
-645;Gerente - Lorena Garcia Matias Pinto;manager_128@goscore.com.br;128;Lorena Garcia Matias Pinto
-644;Gerente - Lets Imob;manager_127@goscore.com.br;127;Lets Imob
-643;Gerente - Leika Aparecida Laureano;manager_126@goscore.com.br;126;Leika Aparecida Laureano
-642;Gerente - KyRo Soluções Imobiliárias;manager_125@goscore.com.br;125;KyRo Soluções Imobiliárias
-641;Gerente - Kelly Cristina Barbosa da Silva;manager_124@goscore.com.br;124;Kelly Cristina Barbosa da Silva
-640;Gerente - Kayra Dias;manager_123@goscore.com.br;123;Kayra Dias
-639;Gerente - Josimeire Teixeira Sousa;manager_122@goscore.com.br;122;Josimeire Teixeira Sousa
-638;Gerente - JOSÉ MARCOS MOREIRA FILHO;manager_121@goscore.com.br;121;JOSÉ MARCOS MOREIRA FILHO
-637;Gerente - Jennifer Imóveis;manager_120@goscore.com.br;120;Jennifer Imóveis
-636;Gerente - IZZI IMOVEIS;manager_119@goscore.com.br;119;IZZI IMOVEIS
-635;Gerente - IMMOBILE CENTER NEGOCIOS IMOBILIARIOS;manager_118@goscore.com.br;118;IMMOBILE CENTER NEGOCIOS IMOBILIARIOS
-634;Gerente - Hub Soluções Imobiliárias;manager_117@goscore.com.br;117;Hub Soluções Imobiliárias
-633;Gerente - House Goiás Imobiliária;manager_116@goscore.com.br;116;House Goiás Imobiliária
-632;Gerente - HAUZ NEGOCIOS IMOBILIARIOS;manager_115@goscore.com.br;115;HAUZ NEGOCIOS IMOBILIARIOS
-631;Gerente - HAUT IMOVEIS SOB MEDIDA;manager_114@goscore.com.br;114;HAUT IMOVEIS SOB MEDIDA
-630;Gerente - Guilherme Pina;manager_113@goscore.com.br;113;Guilherme Pina
-629;Gerente - Full house;manager_112@goscore.com.br;112;Full house
-628;Gerente - Firmino Filho;manager_111@goscore.com.br;111;Firmino Filho
-627;Gerente - Ezi Imoveis;manager_110@goscore.com.br;110;Ezi Imoveis
-626;Gerente - Exho;manager_109@goscore.com.br;109;Exho
-625;Gerente - EVA MAGALHAES NEGOCIOS IMOBILIARIOS;manager_108@goscore.com.br;108;EVA MAGALHAES NEGOCIOS IMOBILIARIOS
-624;Gerente - Emirates Imobiliária;manager_107@goscore.com.br;107;Emirates Imobiliária
-623;Gerente - Emerson Ferraz de Oliveira;manager_106@goscore.com.br;106;Emerson Ferraz de Oliveira
-622;Gerente - Diamond;manager_105@goscore.com.br;105;Diamond
-621;Gerente - CLASS IMOVEIS;manager_104@goscore.com.br;104;CLASS IMOVEIS
-620;Gerente - Charlene Athie;manager_103@goscore.com.br;103;Charlene Athie
-619;Gerente - Castel Infinity;manager_102@goscore.com.br;102;Castel Infinity
-618;Gerente - BSDI;manager_101@goscore.com.br;101;BSDI
-617;Gerente - Brokers Imoveis;manager_100@goscore.com.br;100;Brokers Imoveis
-616;Gerente - Blue House;manager_99@goscore.com.br;99;Blue House
-615;Gerente - Axe Imobiliária;manager_98@goscore.com.br;98;Axe Imobiliária
-614;Gerente - Kamyla Costa - Autônomos;manager_97@goscore.com.br;97;Kamyla Costa - Autônomos
-613;Gerente - Argon Conexoes imobiliarias;manager_96@goscore.com.br;96;Argon Conexoes imobiliarias
-612;Gerente - AMIZ;manager_95@goscore.com.br;95;AMIZ
-611;Gerente - Aleixo Rezende;manager_94@goscore.com.br;94;Aleixo Rezende
-610;Gerente - ADM Imobiliária;manager_93@goscore.com.br;93;ADM Imobiliária
-609;Gerente - 2K IMÓVEIS;manager_92@goscore.com.br;92;2K IMÓVEIS
-608;Gerente - City Vendas;manager_91@goscore.com.br;91;City Vendas
-607;Gerente - City Inc;manager_90@goscore.com.br;90;City Inc
-606;Gerente - Clara Soyer - Autônomos;manager_89@goscore.com.br;89;Clara Soyer - Autônomos
-605;Gerente - Weverton Reis Santos;manager_88@goscore.com.br;88;Weverton Reis Santos
-604;Gerente - Westony Gomes Pereira;manager_87@goscore.com.br;87;Westony Gomes Pereira
-603;Gerente - VOLKER IMOVEIS;manager_86@goscore.com.br;86;VOLKER IMOVEIS
-602;Gerente - TAVARES E MEDINA IMOVEIS;manager_85@goscore.com.br;85;TAVARES E MEDINA IMOVEIS
-601;Gerente - SOUSA ANDRADE VENDAS;manager_84@goscore.com.br;84;SOUSA ANDRADE VENDAS
-600;Gerente - RODOVALHO IMOVEIS;manager_83@goscore.com.br;83;RODOVALHO IMOVEIS
-599;Gerente - Ricardo Ribas Imóveis;manager_82@goscore.com.br;82;Ricardo Ribas Imóveis
-598;Gerente - REVENDAS GOIÂNIA;manager_81@goscore.com.br;81;REVENDAS GOIÂNIA
-597;Gerente - REMAX;manager_80@goscore.com.br;80;REMAX
-596;Gerente - RAFAEL MACHADO;manager_79@goscore.com.br;79;RAFAEL MACHADO
-595;Gerente - R8 Imóveis;manager_78@goscore.com.br;78;R8 Imóveis
-594;Gerente - PRIVILEGE IMOBILIARIA;manager_77@goscore.com.br;77;PRIVILEGE IMOBILIARIA
-593;Gerente - Prime Imóveis;manager_76@goscore.com.br;76;Prime Imóveis
-592;Gerente - Pérola Imóveis;manager_75@goscore.com.br;75;Pérola Imóveis
-591;Gerente - PERITOS EM IMÓVEIS;manager_74@goscore.com.br;74;PERITOS EM IMÓVEIS
-590;Gerente - PENTAGONO IMOVEIS;manager_73@goscore.com.br;73;PENTAGONO IMOVEIS
-589;Gerente - PCI imóveis;manager_72@goscore.com.br;72;PCI imóveis
-588;Gerente - PATRICK E LEANDRO IMÓVEIS;manager_71@goscore.com.br;71;PATRICK E LEANDRO IMÓVEIS
-587;Gerente - Oron Imobiliária;manager_70@goscore.com.br;70;Oron Imobiliária
-586;Gerente - Orlando Donizete Souza Junior;manager_69@goscore.com.br;69;Orlando Donizete Souza Junior
-585;Gerente - OPC PRIME;manager_68@goscore.com.br;68;OPC PRIME
-584;Gerente - NONATO IMÓVEIS;manager_67@goscore.com.br;67;NONATO IMÓVEIS
-583;Gerente - MAXWELL IMOVEIS;manager_66@goscore.com.br;66;MAXWELL IMOVEIS
-582;Gerente - MARINALVA SOUZA;manager_65@goscore.com.br;65;MARINALVA SOUZA
-581;Gerente - MAQNA NEGOCIOS IMOBILIARIOS;manager_64@goscore.com.br;64;MAQNA NEGOCIOS IMOBILIARIOS
-580;Gerente - MAGALI BRANDAO;manager_63@goscore.com.br;63;MAGALI BRANDAO
-579;Gerente - M360 IMOVEIS;manager_62@goscore.com.br;62;M360 IMOVEIS
-578;Gerente - LVL IMOBILIARIA;manager_61@goscore.com.br;61;LVL IMOBILIARIA
-577;Gerente - Luxo imóveis Goiás;manager_60@goscore.com.br;60;Luxo imóveis Goiás
-576;Gerente - Luxo Gyn;manager_59@goscore.com.br;59;Luxo Gyn
-575;Gerente - LUMINA IMOBILIARIA;manager_58@goscore.com.br;58;LUMINA IMOBILIARIA
-574;Gerente - LTZ IMOVEIS;manager_57@goscore.com.br;57;LTZ IMOVEIS
-573;Gerente - LOREN GUSMÃO;manager_56@goscore.com.br;56;LOREN GUSMÃO
-572;Gerente - Lopes Marista;manager_55@goscore.com.br;55;Lopes Marista
-571;Gerente - Lopes Jardim Goiás;manager_54@goscore.com.br;54;Lopes Jardim Goiás
-570;Gerente - Lopes Bueno;manager_53@goscore.com.br;53;Lopes Bueno
-569;Gerente - Leonardo Lacerda;manager_52@goscore.com.br;52;Leonardo Lacerda
-568;Gerente - KEILA ALVES;manager_51@goscore.com.br;51;KEILA ALVES
-567;Gerente - João Márcio Inácio Siqueira;manager_50@goscore.com.br;50;João Márcio Inácio Siqueira
-566;Gerente - Imagem Imóveis;manager_49@goscore.com.br;49;Imagem Imóveis
-565;Gerente - Heracléia Aparecida Franco Marques Carvalho;manager_48@goscore.com.br;48;Heracléia Aparecida Franco Marques Carvalho
-564;Gerente - GILBERTO DE ALCANTARA;manager_47@goscore.com.br;47;GILBERTO DE ALCANTARA
-563;Gerente - G1 IMOVEIS;manager_46@goscore.com.br;46;G1 IMOVEIS
-562;Gerente - Fortunato Pedroza;manager_45@goscore.com.br;45;Fortunato Pedroza
-561;Gerente - Feliciano Imóveis;manager_44@goscore.com.br;44;Feliciano Imóveis
-560;Gerente - Fabiana Mundim;manager_43@goscore.com.br;43;Fabiana Mundim
-559;Gerente - Exata Imoveis;manager_42@goscore.com.br;42;Exata Imoveis
-558;Gerente - Especifica Imóveis;manager_41@goscore.com.br;41;Especifica Imóveis
-557;Gerente - Epic Real Estate Imobiliaria;manager_40@goscore.com.br;40;Epic Real Estate Imobiliaria
-556;Gerente - Elton Francisco da Silva;manager_39@goscore.com.br;39;Elton Francisco da Silva
-555;Gerente - Eliane Bastos;manager_38@goscore.com.br;38;Eliane Bastos
-554;Gerente - CRISTAL IMOVEIS;manager_37@goscore.com.br;37;CRISTAL IMOVEIS
-553;Gerente - CONEX HOME;manager_36@goscore.com.br;36;CONEX HOME
-552;Gerente - CL7 Imóveis Ltda;manager_35@goscore.com.br;35;CL7 Imóveis Ltda
-551;Gerente - CASABELLA IMOBILIARIA;manager_34@goscore.com.br;34;CASABELLA IMOBILIARIA
-550;Gerente - CASA TUA;manager_33@goscore.com.br;33;CASA TUA
-549;Gerente - CARVALHO IMÓVEIS;manager_32@goscore.com.br;32;CARVALHO IMÓVEIS
-548;Gerente - CARTERI IMOVEIS;manager_31@goscore.com.br;31;CARTERI IMOVEIS
-547;Gerente - Carolayny Carvalho Lima;manager_30@goscore.com.br;30;Carolayny Carvalho Lima
-546;Gerente - BW IMÓVEIS;manager_29@goscore.com.br;29;BW IMÓVEIS
-545;Gerente - BL IMOVEIS;manager_28@goscore.com.br;28;BL IMOVEIS
-544;Gerente - BIC EMPREENDIMENTOS E NEGÓCIOS;manager_27@goscore.com.br;27;BIC EMPREENDIMENTOS E NEGÓCIOS
-543;Gerente - BARRETO IMOVEIS;manager_26@goscore.com.br;26;BARRETO IMOVEIS
-542;Gerente - B2C IMOVEIS;manager_25@goscore.com.br;25;B2C IMOVEIS
-541;Gerente - Caroline Neri - Autônomos;manager_24@goscore.com.br;24;Caroline Neri - Autônomos
-540;Gerente - ATUAL IMOBILIARIA;manager_23@goscore.com.br;23;ATUAL IMOBILIARIA
-539;Gerente - Argon;manager_22@goscore.com.br;22;Argon
-538;Gerente - Anderson Rodrigues Ribeiro;manager_21@goscore.com.br;21;Anderson Rodrigues Ribeiro
-537;Gerente - Ana Vera Carvalho;manager_20@goscore.com.br;20;Ana Vera Carvalho
-536;Gerente - Ana Mônica Barbosa da Cunha;manager_19@goscore.com.br;19;Ana Mônica Barbosa da Cunha
-535;Gerente - ALLGE IMÓVEIS;manager_18@goscore.com.br;18;ALLGE IMÓVEIS
-534;Gerente - ACTOS IMOVEIS;manager_17@goscore.com.br;17;ACTOS IMOVEIS
-533;Gerente - TESTE01;manager_16@goscore.com.br;16;TESTE01
-532;Gerente - TESTE01;manager_15@goscore.com.br;1;Corretores de Mercado
-531;Gerente - TESTE01;manager_14@goscore.com.br;1;Corretores de Mercado
-530;Gerente - ImobFelipe;manager_13@goscore.com.br;13;ImobFelipe
-529;Gerente - Equipe TESTE;manager_12@goscore.com.br;12;Equipe TESTE
-524;Gerente GI teste City 1;neylor@cityinc.com.br;11;OBSOLETOS
-522;Gerente GI teste City 2;iandra.alves@cityinc.com.br;11;OBSOLETOS
-520;Gerente - OBSOLETOS;manager_11@goscore.com.br;11;OBSOLETOS
-519;Gerente - TUTU MOVEIS;manager_10@goscore.com.br;1;Corretores de Mercado
-467;Alberto Soares;alberto.soares@teste.appfacilita.com;1;Corretores de Mercado
+﻿Id;Email;idImobiliaria;Imobiliaria;manager_id;Nome
+1447;thati@homeclass.imb.br;176;HOME CLASS SOLUÇÕES IMOBILIARIAS LTDA;882;Thassiana Bonfim
+1545;luizfelipe.miranda@cityvendas.com.br;91;City Vendas;881;Luiz Felipe Miranda
+1237;andressa@adaox.com.br;264;Adão X;880;Andressa Felipe alves 
+1515;manager_899@goscore.com.br;89;Clara Soyer - Autônomos;879;gerente ficticio autonomos
+1514;manager_549@goscore.com.br;549;Ricos Imoveis;878;Gerente - Ricos Imoveis
+1512;manager_999@goscore.com.br;90;City Inc;876;Gerente ficticio
+1504;manager_548@goscore.com.br;548;Opta imóveis ;875;Gerente - Opta imóveis 
+1497;manager_547@goscore.com.br;547;Aevo Bueno;874;Gerente - Aevo Bueno
+1308;fabianocunha@valus.com.br;203;VALUS JARDIM GOIÁS;873;Fabiano da Silva Cunha
+1491;contato@vesperimoveis.com.br;205;Vesper Imóveis;872;"Isnard Borges Machado 
+Welligton Mendes"
+1489;bposolida@gmail.com;204;Valus Marista;871;Denise Salviano Ribeiro Oliveira
+1488;imoveisvallore@gmail.com;202;Vallóre Negócios Imobiliários;870;Moabe Silvério Lima
+1487;brenda.paula@urbsrt.com.br;200;Urbs Realty;869;Brenda Paula
+1486;elen.cruz@urbsrt.com.br;197;URBS One;868;Elen da Cruz Nascimento Guimarães
+1485;leandro.barboza@urbsrt.com.br;196;URBS Neo;867;Leandro Ferreira Barboza
+1484;beatriz.mendes@urbsrt.com.br;195;URBS Infinity;866;Beatriz Mendes Vieira
+1483;Lucasvieira@urbsrt.com.br;194;Urbs imobi;865;Lucas Vieira Andrade Alves
+1482;evellyn.bueno@urbsrt.com.br;193;URBS Donna;864;Evellyn Bueno Braga Camargo
+1481;francisco.souza@urbsrt.com.br;191;URBS Conceito;863;Francisco Rogério Andrade Souza
+1480;urbsdocerrado.to@gmail.com;190;URBS Cerrado;862;Nahylton Alen Rego Costa
+1479;Murilloffer@gmail.com;188;Urbs Alphamall;861;Murillo Fernandes
+1478;tjsolucoes.imobiliarias10@gmail.com;187;TJ SOLUCOES IMOBILIARIAS LTDA;860;Thiago Games Lopes
+1477;Lara.thalimoveis@gamil.com;186;Thal Opportunity;859;Lara lyns guedes do Nascimento
+1476;diretor@peixotoimoveisrv.com.br;184;Peixoto Negócios Imobiliários Ltda;858;Murilo Luiz Peixoto
+1475;ourconsultoriaimobiliaria@gmail.com;183;OUR Imobi;857;Lucas Oliveira Martins
+1474;oniriaimoveis@gmail.com;182;ONIRIA IMOVEIS;856;Lucas Marcelino Cardoso de Oliveira
+1473;nitidaimoveis@gmail.com;181;Nítida Imóveis;855;Carlos Eduardo Bueno da Silva
+1472;Helberth.salgado@myside.com.br;180;My Side;854;Helberth Philippe de Sousa Salgado
+1471;gabriel.monferrari@yahoo.com.br;179;Monferrari Imoveis;853;Gabriel Guedes Monferrari
+1469;contato@awrimoveis.com.br;174;AWR IMÓVEIS;852;RODRIGO WAGNER DE LIMA
+1468;arbocoimoveis@gmail.com;172;Arbo Imóveis;851;Thiago César Elias Silva
+1284;gisela@adaox.com.br;264;Adão X;850;Gisela Araújo
+1283;adriano@adaovirto.com.br;263;Adão Virto;849;Adriano Gomes
+1282;quetsia@adaotalent.com.br;260;Adão Talent;848;Quetsia Pinheiro
+1281;leandro.wehbe@adaotalent.com.br;260;Adão Talent;847;Leandro Wehbe
+1280;weverson@adaosolo.com.br;259;Adão Solo;846;Weverson Lopes
+1279;anna.ramos@cgadao.com.br;543;Adão On;845;Ana Ramos
+1278;vinicius@adaoimoveis.com.br;258;Adão Matriz;844;Vinicius Silva
+1277;ferrari@adaoimoveis.com.br;258;Adão Matriz;843;Matheus Ferrari
+1276;delton@adaoimoveis.com.br;258;Adão Matriz;842;Delton Andreatta Junqueira
+1275;luciano@adaointense.com.br;546;Adão Mais;841;Luciano Pires do Prado Pais
+1274;luis.guilherme@adaoaction.com.br;257;Adão Action;840;Luís Guilherme Zava Ayres
+1258;testleo.diagnostico@cityinc.com.br;11;OBSOLETOS;839;teste leo
+1247;luiz.carlos@cityvendas.com.br;91;City Vendas;838;Luiz Carlos de castro Oliveira Junior
+1246;Paulovinicius.silva@cityvendas.com.br;91;City Vendas;837;Paulo Vinícius Elias 
+1245;Caio.santana@cityvendas.com.br;91;City Vendas;836;Caio Henrique Alves Santana
+1244;fernando.wada@cityvendas.com.br;91;City Vendas;835;Fernando Takaaki Wada
+1243;dias@cityvendas.com.br;91;City Vendas;834;Lucas Dias Souto
+1242;moises.garcia@cityvendas.com.br;91;City Vendas;833;Moisés Verginio Garcia
+1241;priscila.hertel@cityvendas.com.br;91;City Vendas;832;Priscila Hertel
+1239;eloy.carreno@cityvendas.com.br;91;City Vendas;830;Eloy Garcia Carreno
+1238;manager_546@goscore.com.br;546;Adão Mais;829;Gerente - Adão Mais
+1204;manager_545@goscore.com.br;545;Le Office investimentos imobiliários;828;Gerente - Le Office investimentos imobiliários
+1203;manager_544@goscore.com.br;544;Aevo Marista 2;827;Gerente - Aevo Marista 2
+1197;Sonia.sores@gmail.com;377;Sônia Soares;826;Sônia Soares
+1196;rodrigomarcante.marcante@gmail.com;373;Rodrigo Marcante de Mattos;825;Rodrigo Marcante de Mattos
+1195;reginaldowantuilsp@gmail.com;374;RW Imóveis;824;REGINALDO WANTUIL SILVA DE PAULA
+1194;leofreitasimovel@gmail.com;363;Leonardo de Araújo Lima Freitas;823;Leonardo de Araújo Lima Freitas
+1193;humberto.reis@consciente.com.br;350;Consciente Vendas;822;Humberto Reis
+1192;hebert@kassifi.com.br;361;Kassifi imóveis Ltda;821;Hebert Silva Cardoso
+1191;guilhermesalomao.direito@hotmail.com;357;Guilherme Salomão;820;Guilherme Salomão Guimarães Oliveira
+1190;Gladsjunior@gmail.com;355;GJ NEGÓCIOS IMOBILIÁRIOS;819;Gladestone Ferreira de Sousa Junior
+1189;franklin.cv@outlook.com;354;Franklin Carvalho;818;Franklin Carvalho Cunha
+1188;fernandorodriguesferreria030@gmail.com;364;Like Imobiliária;817;Fernando Rodrigues Ferreira
+1187;auricancaiado@gmail.com;344;Aurican Ramos;816;Aurican ramos caiado neto
+1186;abediassouza@gmail.com;339;Abedias Souza;815;Abedias José Evangelista Souza
+1185;wictormachado.pointer@gmail.com;322;Pointer Imobiliária;814;Wictor Junqueira Machado
+1184;simone.sco.imoveis@gmail.com;333;SIX PARTNERS;813;SIMONE OLIVEIRA
+1183;sgaimoveis@creci.org.br;332;Shirley Allves;812;Shirlei das Graças Alves
+1182;Renatoobterimoveis@gmail.com;313;Obter;811;Renato luiz lozi leite
+1181;reginaimoveis09@gmail.com;328;Regina Neves;810;Regina de Oliveira Neves (mercado)
+1180;regiane@visioimoveis.com;337;Visio Imóveis;809;Regiane Rageldes de Rezende
+1179;osmarbarbosaimoveis@gmail.com;318;Osmar Afonso Barbosa;808;Osmar Afonso Barbosa
+1178;JORGECOSAC@HOTMAIL.COM;301;JC BROKERS;807;Jorge Aziz Cosac Neto
+1177;hiaga_souza@hotmail.com;316;Open hauz;806;Hyagha mayra Souza Sudario
+1176;felipemickey@adaon.com.br;543;Adão On;805;FELIPE COSTA TEIXEIRA MACHADO
+1175;fabiolacardosocs@gmail.com;283;Fabíola Cardoso da Silva;804;Fabíola Cardoso da Silva
+1174;fabiano.pereira@oniximob.com.br;315;Onix Imobiliária;803;Fabiano Pereira Baptista
+1173;eritonfrota@gmail.com;288;Frota Imob;802;Ériton Ferreira Frota
+1172;erika@adaouna.com.br;542;Adão Una;801;Erika Elyne de Paula
+1171;ediberto@portaldosolurbanismo.com.br;541;House Portal do Sol Urbanismo;800;Ediberto Morais Jardim Filho
+1170;debbora@dqimoveis.com;281;DQ Business Consultoria Imobiliária;799;Debbora de Queiroz
+1169;claudinoimoveisgo@gmail.com;278;Claudino Imóveis;798;Makley Guedes Claudino
+1168;Carolinemesquita@topproducer.com.br;302;LCRI NEGOCIOS IMOBILIAROS LTDA - Imobiliária TOP;797;CAROLINE ALVES MESQUITA
+1167;cardosoandersonacs@gmail.com;270;Anderson Cardoso da silva;796;Anderson Cardoso da silva
+1166;andressa.leite@gmail.com;263;Adão Virto;795;Andressa Leite
+1165;adrianaguioncorretoraimoveis@gmail.com;265;Adriana Guion;794;Adriana Guion Monteiro
+1164;valtuirborges@gmail.com;540;Valtuir borges da silva;793;Valtuir borges da silva
+1163;saulomartins_silva@hotmail.com;249;Saulo Silva;792;Saulo Silva
+1162;rogeriozenon33@gmail.com;539;Rogério Araújo Zenon;791;Rogério Araújo Zenon
+1161;rogeriotti@creci.org.br;247;Rogério Gomes de Freitas;790;Rogério Gomes de Freitas
+1160;renatoleao.comercial@gmail.com;245;Portfolio Prime;789;Renato Leão da Silva Vieira
+1159;Reginaldo@portfolioimoveis.com.br;243;Portfólio Jardim Goiás;788;Reginaldo Abdala Filho
+1158;RAFAEL@VITTAIMB.COM;253;Vitta Imobiliária;787;RAFAEL MONJOLO
+1157;PETRARHUSKAYACOME@GMAIL.COM;242;Petra Imóveis;786;PETRA RHUSKAYA
+1156;Pedrobotosso@hotmail.com;240;Pedro botosso de amorim;785;Pedro botosso de amorim
+1155;pedroaugustoramosimoveis@gmail.com;239;PARG imóveis;784;Pedro Augusto Ramos Gomes
+1154;mauricio.consultor42@gmail.com;234;Mauricio Agapito dos Santos Jr;783;Mauricio Agapito dos Santos Jr
+1153;matheusfontanella@verus.imb.br;252;VERUS IMOBILIARIA;782;MATHEUS FONTANELLA
+1152;mario.leite@awmimoveis.com.br;209;AWM IMÓVEIS;781;Mário Luiz Leite
+1151;Marcosamabrao@gmail.com;232;M A Negócios Imobiliários Ltda;780;Marcos Aurélio Magalhães Abrão
+1150;marciopedrozabroker@gmail.com;241;Pedroza Imóveis;779;Marcio Mendonça Pedroza
+1149;luizwagnersantos@gmail.com;254;Wagner Luiz Costa dos Santos;778;Wagner Luiz Costa dos Santos
+1148;LUISFLAVIOJR@ICLOUD.COM;230;LF REAL STATE LTDA;777;LUIS FLÁVIO DA SILVA JUNIOR
+1147;lucianarezio@hotmail.com;538;SHARKS IMOBILIÁRIA MARISTA;776;Luciana Rezio
+1146;LEONARDOALMEIDA.IMB@GMAIL.COM;228;Leonardo Almeida;775;LEONARDO ALMEIDA
+1145;LEANDRO.MARCELINO@M2IN.COM.BR;233;M2;774;LEANDRO MARCELINO DE SOUZA
+1144;thiagogi.sharks@gmail.com;537;SHARKS IMOBILIÁRIA BUENO;773;Thiago rodrigues
+1143;fernandobarcelos77@gmail.com;207;3 MORADAS;772;Fernando Barcelos Fernandes
+1142;eliane_fernandes1304@hotmail.com;536;Cronos Imóveis;771;Eliane Fernandes de Ataídes Castro
+1141;Douglas.torresimob@gmail.com;235;Máxima Imob;770;Douglas Torres
+1140;DENISEBRITO.CORRETORA@GMAIL.COM;219;Denise Brito;769;DENISE BRITO
+1139;DENES.RESENDE@GMAIL.COM;218;DENES RESENDE;768;DENES RESENDE
+1138;darilo@hoppimoveis.com.br;225;Hopp Imóveis;767;Darilo Petineli
+1137;cavacalcanteleonardo25@gmail.com;229;Leonardo Borges;766;Leonardo Borges Alves Cavalcante
+1136;alessandroagn0509@gmail.com;244;PORTFÓLIO MARISTA;765;Alessandro Gonçalves Nascimento
+1135;thiago@valus.com.br;204;Valus Marista;764;Thiago Augustus do A. Oliveira
+1134;Renators.rsimoveis@gmail.com;185;Rs Imóveis;763;Renato Rodrigues Silva dos Santos
+1133;pedro@futurarv.com.br;175;Futura Imóveis;762;Pedro Paullo Santos Ferreira
+1132;Nayannenascimentobarros@gmail.com;201;Urbs Seven;761;Nayanne Nascimento
+1131;marcus.leao@mlimoveisgyn.com.br;178;ML Imóveis Ltda.;760;Marcus Vinicius Silva Leão
+1130;Kamanziimoveis@gmail.com;177;Kamanzi Imóveis;759;Kamila Manzi da Cruz fonte boa
+1129;julianoduarte@urbsrt.com.br;195;URBS Infinity;758;Juliano Henrique Duarte Junqueira
+1128;Jorge@urbsrt.com.br;199;URBS Private;757;Jose Humberto Carvalho
+1127;ezequiasa.xavier@gmail.com;173;AREDES imóveis;756;Ezequias aredes
+1126;daniel.sales@urbsrt.com.br;198;URBS Piri;755;DANIEL DE PAIVA E SALES
+1125;Andreoli@urbsrt.com.br;192;URBS Connect;754;Anderson Andreoli
+1124;zimar.corretor@gmail.com;171;Zimar Gomes;753;Zimar Gomes da Silva
+1123;Weudsonsaraiva@gmail.com;169;Weudson Saraiva Ribeiro;752;Weudson Saraiva Ribeiro
+1122;taquaryinvest@gmail.com;162;Taquary Imoveis;751;RODRIGO BORGES TAQUARY
+1121;talita_moliveira@hotmail.com;160;Talita Michele Gomes de Oliveira;750;Talita Michele Gomes de Oliveira
+1120;Ricardo.augusto@mybrokerimoveis.com.br;137;MB Eldorado;749;Ricardo Augusto Borges Soares
+1119;rebecca@rebeccaimoveis.com.br;155;Rebecca imóveis;748;Jady Rebecca Santos da Silva Rodrigues
+1118;pinadocarmo@gmail.com;113;Guilherme Pina;747;Guilherme Pina do Carmo
+1117;marianacastroviejo.corretor@gmail.com;142;MB Marista;746;MARIANA HERBERT
+1116;malu.carneiro13@gmail.com;131;Malu Carneiro;745;María Luiza de Araújo Souza
+1115;luiz@tandoorimoveis.com.br;161;Tandoor Imóveis;744;Luiz Cláudio Silva
+1114;Leikalauap@gmail.com;126;Leika Aparecida Laureano;743;Leika Aparecida Laureano
+1113;kelly.investimentosbtc@gmail.com;124;Kelly Cristina Barbosa da Silva;742;Kelly Cristina Barbosa da Silva
+1112;Jositeixeirabrooker@gmail.com;122;Josimeire Teixeira Sousa;741;Josimeire Teixeira Sousa
+1111;josemarcosmoreira10@gmail.com;121;JOSÉ MARCOS MOREIRA FILHO;740;José Marcos Moreira filho
+1110;jenifferimoveisgoiania@gmail.com;120;Jennifer Imóveis;739;Jeniffer Vieira Padua
+1109;igorpinheiro144@gmail.com;154;Piinari;738;Igor Pinheiro da Silva
+1108;firminofilhoconsultorimobiliario@outlook.com;111;Firmino Filho;737;Firmino Amancio Da Silva Filho
+1107;eziimoveis@gmail.com;110;Ezi Imoveis;736;Ezí Mendes
+1106;ednardopimentel@gmail.com;168;Wesley Ednardo Pimentel;735;Ednardo Montez Pimentel
+1105;bispo@novamercadoimobiliario.com.br;152;Nova Imobiliária;734;Gustavo bispo leal
+1104;antoniomaraujo@hotmail.com;93;ADM Imobiliária;733;Antônio Carlos Moura de Araújo
+1103;andre.fleury@mybrokerimoveis.com.br;136;MB Bueno;732;ANDRÉ FLEURY
+1102;Tailyng@pciimoveis.com;72;PCI imóveis;731;Tailyng dos Reis Coelho
+1101;Ricardoribasimoveis@gmail.com;82;Ricardo Ribas Imóveis;730;Ricardo Ribas Lopes
+1100;magalhaes@m360imoveis.com;62;M360 IMOVEIS;729;FABIO MAGALHÃES
+1099;luizclaudioalvarenga@gmail.com;534;Luiz Claudio Silva de Alvarenga;728;Luiz Claudio Silva de Alvarenga
+1098;lucas@carvalhoimoveisgo.com.br;32;CARVALHO IMÓVEIS;727;LUCAS CARVALHO
+1097;Leonardolacerdafelix@gmail.com;52;Leonardo Lacerda;726;Leonardo Lacerda
+1096;leandro.zortea@gmail.com;57;LTZ IMOVEIS;725;Leandro T Zortea
+1095;joaovictor@nonatoimoveis.com.br;67;NONATO IMÓVEIS;724;JOÃO VICTOR NONATO
+1094;heracleiafranco@gmail.com;48;Heracléia Aparecida Franco Marques Carvalho;723;Heracléia Aparecida Franco Marques Carvalho
+1093;fredimobcasabella@gmail.com;34;CASABELLA IMOBILIARIA;722;FREDERIDO PRUDENTE MACHADO
+1092;fopedrozza@gmail.com;45;Fortunato Pedroza;721;Fortunato Pedroza
+1091;fernandofernandes@remax.com.br;80;REMAX;720;FERNANDO FERNANDES
+1090;fabiana.mundim@icloud.com;43;Fabiana Mundim;719;Fabiana Ribeiro Mundim
+1089;carolcachimbo@gmail.com;30;Carolayny Carvalho Lima;718;Carolayny Carvalho Lima
+1088;braulio.goiania@gmail.com;68;OPC PRIME;717;Bráulio Rodrigues Duarte
+1087;anamonicacunha25@gmail.com;19;Ana Mônica Barbosa da Cunha;716;Ana Mônica Barbosa da Cunha
+1086;manager_543@goscore.com.br;543;Adão On;715;Gerente - Adão On
+1085;manager_542@goscore.com.br;542;Adão Una;714;Gerente - Adão Una
+1084;manager_541@goscore.com.br;541;House Portal do Sol Urbanismo;713;Gerente - House Portal do Sol Urbanismo
+1083;manager_540@goscore.com.br;540;Valtuir borges da silva;712;Gerente - Valtuir borges da silva
+1082;manager_539@goscore.com.br;539;Rogério Araújo Zenon;711;Gerente - Rogério Araújo Zenon
+1081;manager_538@goscore.com.br;538;SHARKS IMOBILIÁRIA MARISTA;710;Gerente - SHARKS IMOBILIÁRIA MARISTA
+1080;manager_537@goscore.com.br;537;SHARKS IMOBILIÁRIA BUENO;709;Gerente - SHARKS IMOBILIÁRIA BUENO
+1079;manager_536@goscore.com.br;536;Cronos Imóveis;708;Gerente - Cronos Imóveis
+1078;manager_535@goscore.com.br;11;OBSOLETOS;707;Gerente - Eliane Fernandes de Ataídes Castro
+1077;manager_534@goscore.com.br;534;Luiz Claudio Silva de Alvarenga;706;Gerente - Luiz Claudio Silva de Alvarenga
+1076;manager_533@goscore.com.br;12;Equipe TESTE;705;Gerente - #NAME?
+1074;gerente_006@teste.com;84;SOUSA ANDRADE VENDAS;704;GERENTE_006
+1073;gerente_005@teste.com;109;Exho;703;GERENTE_005
+1072;gerente_004@teste.com;142;MB Marista;702;GERENTE_004
+1071;gerente_003@teste.com;119;IZZI IMOVEIS;701;GERENTE_003
+1070;gerente_002@teste.com;18;ALLGE IMÓVEIS;700;GERENTE_002
+1069;gerente_001@teste.com;17;ACTOS IMOVEIS;699;GERENTE_001
+1068;manager_532@goscore.com.br;532;Michael Yann - Autônomos;698;Gerente - Michael Yann - Autônomos
+1057;teste@cityinc.com.br;11;OBSOLETOS;691;teste_001
+1048;manager_531@goscore.com.br;11;OBSOLETOS;690;Gerente - Xis Imóveis
+1047;manager_530@goscore.com.br;11;OBSOLETOS;689;Gerente - Viva Imóveis
+1046;manager_529@goscore.com.br;11;OBSOLETOS;688;Gerente - VIRTO
+1045;manager_528@goscore.com.br;11;OBSOLETOS;687;Gerente - Victor Furini
+1044;manager_527@goscore.com.br;11;OBSOLETOS;686;Gerente - Veend By
+1043;manager_526@goscore.com.br;11;OBSOLETOS;685;Gerente - VANESSA SHARKS
+1042;manager_525@goscore.com.br;11;OBSOLETOS;684;Gerente - VALLUS
+1041;manager_524@goscore.com.br;11;OBSOLETOS;683;Gerente - URBS Opportunity
+1040;manager_523@goscore.com.br;11;OBSOLETOS;682;Gerente - URBS +
+1039;manager_522@goscore.com.br;11;OBSOLETOS;681;Gerente - URBE CONSULTORIA
+1038;manager_521@goscore.com.br;11;OBSOLETOS;680;Gerente - Times Imobiliária
+1037;manager_520@goscore.com.br;11;OBSOLETOS;679;Gerente - Thiago Alencar
+1036;manager_519@goscore.com.br;11;OBSOLETOS;678;Gerente - The House Imobiliária
+1035;manager_518@goscore.com.br;11;OBSOLETOS;677;Gerente - Thales Cárfaro
+1034;manager_517@goscore.com.br;11;OBSOLETOS;676;Gerente - THAISA DURANTE
+1033;manager_516@goscore.com.br;11;OBSOLETOS;675;Gerente - THAIS URZEDA
+1032;manager_515@goscore.com.br;11;OBSOLETOS;674;Gerente - Thais Nascimento
+1031;manager_514@goscore.com.br;11;OBSOLETOS;673;Gerente - Terrazo Imóveis
+1030;manager_513@goscore.com.br;11;OBSOLETOS;672;Gerente - Terra Imóveis
+1029;manager_512@goscore.com.br;11;OBSOLETOS;671;Gerente - Tempus Imobiliária
+1028;manager_511@goscore.com.br;11;OBSOLETOS;670;Gerente - TAL OPPORTUNITY
+1027;manager_510@goscore.com.br;11;OBSOLETOS;669;Gerente - SPEs Imóveis
+1026;manager_509@goscore.com.br;11;OBSOLETOS;668;Gerente - SOLOT IMOVEIS
+1025;manager_508@goscore.com.br;11;OBSOLETOS;667;Gerente - SHARKS MARISTA
+1024;manager_507@goscore.com.br;11;OBSOLETOS;666;Gerente - Select
+1023;manager_506@goscore.com.br;11;OBSOLETOS;665;Gerente - Seguro Imoveis
+1022;manager_505@goscore.com.br;11;OBSOLETOS;664;Gerente - SANDRO MONTAGNA
+1021;manager_504@goscore.com.br;11;OBSOLETOS;663;Gerente - Salazar
+1020;manager_503@goscore.com.br;11;OBSOLETOS;662;Gerente - Ruy Costa
+1019;manager_502@goscore.com.br;11;OBSOLETOS;661;Gerente - RS SANTOS
+1018;manager_501@goscore.com.br;11;OBSOLETOS;660;Gerente - RS Investimentos
+1017;manager_500@goscore.com.br;11;OBSOLETOS;659;Gerente - Ronaldo Kuhn
+1016;manager_499@goscore.com.br;11;OBSOLETOS;658;Gerente - ROGIO XAVIER PEZZOTTI
+1015;manager_498@goscore.com.br;11;OBSOLETOS;657;Gerente - Rodovalho
+1014;manager_497@goscore.com.br;11;OBSOLETOS;656;Gerente - Ricardo Ferreira
+1013;manager_496@goscore.com.br;11;OBSOLETOS;655;Gerente - RICARDO ALESSANDRI HOUSER
+1012;manager_495@goscore.com.br;11;OBSOLETOS;654;Gerente - Reilla Freitas
+1011;manager_494@goscore.com.br;11;OBSOLETOS;653;Gerente - Raquel Cristina
+1010;manager_493@goscore.com.br;11;OBSOLETOS;652;Gerente - Prospera Soluções Imobiliárias
+1009;manager_492@goscore.com.br;11;OBSOLETOS;651;Gerente - Portifolio
+1008;manager_491@goscore.com.br;11;OBSOLETOS;650;Gerente - Portfólio Imóveis
+1007;manager_490@goscore.com.br;11;OBSOLETOS;649;Gerente - PORTFÓLIO
+1006;manager_489@goscore.com.br;11;OBSOLETOS;648;Gerente - Point Imóveis
+1005;manager_488@goscore.com.br;11;OBSOLETOS;647;Gerente - PERFECT HOUSE SOLUCOES IMOBILIARIAS
+1004;manager_487@goscore.com.br;11;OBSOLETOS;646;Gerente - Pedro Henrique
+1003;manager_486@goscore.com.br;11;OBSOLETOS;645;Gerente - PAULO RODRIGUES SHARKS
+1002;manager_485@goscore.com.br;11;OBSOLETOS;644;Gerente - PAULA PORTFÓLIO MARISTA
+1001;manager_484@goscore.com.br;11;OBSOLETOS;643;Gerente - OTÁVIO SHARKS IMOBILIÁRIA
+1000;manager_483@goscore.com.br;11;OBSOLETOS;642;Gerente - NUNO GOIS
+999;manager_482@goscore.com.br;11;OBSOLETOS;641;Gerente - Nu Company
+998;manager_481@goscore.com.br;11;OBSOLETOS;640;Gerente - Neiva Coelho
+997;manager_480@goscore.com.br;11;OBSOLETOS;639;Gerente - MY HUNTER
+996;manager_479@goscore.com.br;11;OBSOLETOS;638;Gerente - Minha Imobiliária
+995;manager_478@goscore.com.br;11;OBSOLETOS;637;Gerente - MICHELY MIL FAZENDAS
+994;manager_477@goscore.com.br;11;OBSOLETOS;636;Gerente - MICHELINI AWM
+993;manager_476@goscore.com.br;11;OBSOLETOS;635;Gerente - Melo Terra Vip
+992;manager_475@goscore.com.br;11;OBSOLETOS;634;Gerente - MB Pq Amazonia
+991;manager_474@goscore.com.br;11;OBSOLETOS;633;Gerente - Mb Oeste
+990;manager_473@goscore.com.br;11;OBSOLETOS;632;Gerente - MB Jaó
+989;manager_472@goscore.com.br;11;OBSOLETOS;631;Gerente - MB Infinity
+988;manager_471@goscore.com.br;11;OBSOLETOS;630;Gerente - Mb Exclusive
+987;manager_470@goscore.com.br;11;OBSOLETOS;629;Gerente - MB BOUGAINVILLE
+986;manager_469@goscore.com.br;11;OBSOLETOS;628;Gerente - Mb 5° Avenida
+985;manager_468@goscore.com.br;11;OBSOLETOS;627;Gerente - Mayconn Braga
+984;manager_467@goscore.com.br;11;OBSOLETOS;626;Gerente - Mariana Gomes
+983;manager_466@goscore.com.br;11;OBSOLETOS;625;Gerente - Marcos Leão
+982;manager_465@goscore.com.br;11;OBSOLETOS;624;Gerente - Marcos Aurélio
+981;manager_464@goscore.com.br;11;OBSOLETOS;623;Gerente - Marco Antônio
+980;manager_463@goscore.com.br;11;OBSOLETOS;622;Gerente - Márcio Pedroza
+979;manager_462@goscore.com.br;11;OBSOLETOS;621;Gerente - Marcelo Azeredo
+978;manager_461@goscore.com.br;11;OBSOLETOS;620;Gerente - Luis Flávio
+977;manager_460@goscore.com.br;11;OBSOLETOS;619;Gerente - Lucelma Veli
+976;manager_459@goscore.com.br;11;OBSOLETOS;618;Gerente - Lucelia Santos de Oliveira
+975;manager_458@goscore.com.br;11;OBSOLETOS;617;Gerente - Luana Devanir
+974;manager_457@goscore.com.br;11;OBSOLETOS;616;Gerente - Lilian Nunes
+973;manager_456@goscore.com.br;11;OBSOLETOS;615;Gerente - LF Imóveis
+972;manager_455@goscore.com.br;11;OBSOLETOS;614;Gerente - Leonardo Rebouças
+971;manager_454@goscore.com.br;11;OBSOLETOS;613;Gerente - Lenardo Borges
+970;manager_453@goscore.com.br;11;OBSOLETOS;612;Gerente - Leidyane Duarte
+969;manager_452@goscore.com.br;11;OBSOLETOS;611;Gerente - LANE PARANHOS
+968;manager_451@goscore.com.br;11;OBSOLETOS;610;Gerente - Kunnert Imóveis
+967;manager_450@goscore.com.br;11;OBSOLETOS;609;Gerente - Klauss de Meneses
+966;manager_449@goscore.com.br;11;OBSOLETOS;608;Gerente - Kenia Martins do Vale
+965;manager_448@goscore.com.br;11;OBSOLETOS;607;Gerente - Kelly Maia
+964;manager_447@goscore.com.br;11;OBSOLETOS;606;Gerente - Juntos Imobiliária
+963;manager_446@goscore.com.br;11;OBSOLETOS;605;Gerente - JULIO TERRA
+962;manager_445@goscore.com.br;11;OBSOLETOS;604;Gerente - Juliana Coelho
+961;manager_444@goscore.com.br;11;OBSOLETOS;603;Gerente - JS Imóveis
+960;manager_443@goscore.com.br;11;OBSOLETOS;602;Gerente - Joyce Rodrigues
+959;manager_442@goscore.com.br;11;OBSOLETOS;601;Gerente - Joselaine Volpi
+958;manager_441@goscore.com.br;11;OBSOLETOS;600;Gerente - Joao Vitor de Araujo Macedo
+957;manager_440@goscore.com.br;11;OBSOLETOS;599;Gerente - JOÃO VICTOR NONATO
+956;manager_439@goscore.com.br;11;OBSOLETOS;598;Gerente - João Márcio
+955;manager_438@goscore.com.br;11;OBSOLETOS;597;Gerente - Ivany Brokers
+954;manager_437@goscore.com.br;11;OBSOLETOS;596;Gerente - INVISTTA IMOBILIARIA
+953;manager_436@goscore.com.br;11;OBSOLETOS;595;Gerente - IN7 Imobiliária
+952;manager_435@goscore.com.br;11;OBSOLETOS;594;Gerente - Imobiliaria Marista
+951;manager_434@goscore.com.br;11;OBSOLETOS;593;Gerente - Iago Blayton
+950;manager_433@goscore.com.br;11;OBSOLETOS;592;Gerente - HOUSE & AVIATION IMOBILIARIA
+949;manager_432@goscore.com.br;11;OBSOLETOS;591;Gerente - HOOP Imobiliária
+948;manager_431@goscore.com.br;11;OBSOLETOS;590;Gerente - Homes & Farms Imoveis
+947;manager_430@goscore.com.br;11;OBSOLETOS;589;Gerente - Henrique Luiz dos Santos
+946;manager_429@goscore.com.br;11;OBSOLETOS;588;Gerente - Habitart Imóveis
+945;manager_428@goscore.com.br;11;OBSOLETOS;587;Gerente - Glenda Imóveis
+944;manager_427@goscore.com.br;11;OBSOLETOS;586;Gerente - GABRIELLA GARCIA
+943;manager_426@goscore.com.br;11;OBSOLETOS;585;Gerente - Fraade Ramos
+942;manager_425@goscore.com.br;11;OBSOLETOS;584;Gerente - Fernando Medrado
+941;manager_424@goscore.com.br;11;OBSOLETOS;583;Gerente - Fernando Caixeta Sharks
+940;manager_423@goscore.com.br;11;OBSOLETOS;582;Gerente - Fernando Bueno
+939;manager_422@goscore.com.br;11;OBSOLETOS;581;Gerente - FERNANDA AZEVEDO
+938;manager_421@goscore.com.br;11;OBSOLETOS;580;Gerente - FERNANDA 3 MORADAS
+937;manager_420@goscore.com.br;11;OBSOLETOS;579;Gerente - Fabricio Monnerat
+936;manager_419@goscore.com.br;11;OBSOLETOS;578;Gerente - FABRÍCIO DUARTE
+935;manager_418@goscore.com.br;11;OBSOLETOS;577;Gerente - F&S Imobiliária
+934;manager_417@goscore.com.br;11;OBSOLETOS;576;Gerente - EXTREME IMOVEIS
+933;manager_416@goscore.com.br;11;OBSOLETOS;575;Gerente - Ética Imobiliária
+932;manager_415@goscore.com.br;11;OBSOLETOS;574;Gerente - ERIKA DE PAULA SHARKS
+931;manager_414@goscore.com.br;11;OBSOLETOS;573;Gerente - EMILIA Imóveis
+930;manager_413@goscore.com.br;11;OBSOLETOS;572;Gerente - Emilia Amin
+929;manager_412@goscore.com.br;11;OBSOLETOS;571;Gerente - Edvaldo Carlos Ramos
+928;manager_411@goscore.com.br;11;OBSOLETOS;570;Gerente - Edilson Cruz
+927;manager_410@goscore.com.br;11;OBSOLETOS;569;Gerente - Douglas Torres
+926;manager_409@goscore.com.br;11;OBSOLETOS;568;Gerente - Domus
+925;manager_408@goscore.com.br;11;OBSOLETOS;567;Gerente - Dicastro
+924;manager_407@goscore.com.br;11;OBSOLETOS;566;Gerente - Deborah Cristina
+923;manager_406@goscore.com.br;11;OBSOLETOS;565;Gerente - Danillo Barbosa
+922;manager_405@goscore.com.br;11;OBSOLETOS;564;Gerente - Danielle Lemos Moreira
+921;manager_404@goscore.com.br;11;OBSOLETOS;563;Gerente - City Terrenos
+920;manager_403@goscore.com.br;11;OBSOLETOS;562;Gerente - City Indicação
+919;manager_402@goscore.com.br;11;OBSOLETOS;561;Gerente - Caza Gold
+918;manager_401@goscore.com.br;11;OBSOLETOS;560;Gerente - Casa Real
+917;manager_400@goscore.com.br;11;OBSOLETOS;559;Gerente - Caroline Michelone
+916;manager_399@goscore.com.br;11;OBSOLETOS;558;Gerente - Bume Imóveis
+915;manager_398@goscore.com.br;11;OBSOLETOS;557;Gerente - Bruno Faria
+914;manager_397@goscore.com.br;11;OBSOLETOS;556;Gerente - BRENO RIBEIRO
+913;manager_396@goscore.com.br;11;OBSOLETOS;555;Gerente - BR WORLD
+912;manager_395@goscore.com.br;11;OBSOLETOS;554;Gerente - BP Imobiliária (Bruno Peres)
+911;manager_394@goscore.com.br;11;OBSOLETOS;553;Gerente - BNN Imóveis
+910;manager_393@goscore.com.br;11;OBSOLETOS;552;Gerente - Bliss Imobiliária
+909;manager_392@goscore.com.br;11;OBSOLETOS;551;Gerente - Bessa Imóveis
+908;manager_391@goscore.com.br;11;OBSOLETOS;550;Gerente - BASTIÃO PORTFÓLIO MARISTA
+907;manager_390@goscore.com.br;11;OBSOLETOS;549;Gerente - Autimob
+906;manager_389@goscore.com.br;11;OBSOLETOS;548;Gerente - ARTUR VITORINO
+905;manager_388@goscore.com.br;11;OBSOLETOS;547;Gerente - Apus
+904;manager_387@goscore.com.br;11;OBSOLETOS;546;Gerente - Antônio Walter
+903;manager_386@goscore.com.br;11;OBSOLETOS;545;Gerente - ANNA KARLA HOUSER IMOBILIARIA
+902;manager_385@goscore.com.br;11;OBSOLETOS;544;Gerente - All Brokers
+901;manager_384@goscore.com.br;11;OBSOLETOS;543;Gerente - Aline de Sá
+900;manager_383@goscore.com.br;11;OBSOLETOS;542;Gerente - Adão Vision
+899;manager_382@goscore.com.br;11;OBSOLETOS;541;Gerente - Adão Vibe
+898;manager_381@goscore.com.br;11;OBSOLETOS;540;Gerente - Adão Solution
+897;manager_380@goscore.com.br;11;OBSOLETOS;539;Gerente - Adão Intense
+896;manager_379@goscore.com.br;11;OBSOLETOS;538;Gerente - Adão ADS
+895;manager_378@goscore.com.br;11;OBSOLETOS;537;Gerente - 1000 Fazendas
+894;manager_377@goscore.com.br;377;Sônia Soares;536;Gerente - Sônia Soares
+893;manager_376@goscore.com.br;376;Singus Imóveis;535;Gerente - Singus Imóveis
+892;manager_375@goscore.com.br;375;Seu Imóvel Goiânia;534;Gerente - Seu Imóvel Goiânia
+891;manager_374@goscore.com.br;374;RW Imóveis;533;Gerente - RW Imóveis
+890;manager_373@goscore.com.br;373;Rodrigo Marcante de Mattos;532;Gerente - Rodrigo Marcante de Mattos
+889;manager_372@goscore.com.br;372;Provenda;531;Gerente - Provenda
+888;manager_371@goscore.com.br;371;Polo Imóveis;530;Gerente - Polo Imóveis
+887;manager_370@goscore.com.br;370;Orla;529;Gerente - Orla
+886;manager_369@goscore.com.br;369;Mond Negócios;528;Gerente - Mond Negócios
+885;manager_368@goscore.com.br;368;Mirano Imóveis;527;Gerente - Mirano Imóveis
+884;manager_367@goscore.com.br;367;MELO DE MELO;526;Gerente - MELO DE MELO
+883;manager_366@goscore.com.br;366;Mais Novus;525;Gerente - Mais Novus
+882;manager_365@goscore.com.br;365;Luds Imobiliária;524;Gerente - Luds Imobiliária
+881;manager_364@goscore.com.br;364;Like Imobiliária;523;Gerente - Like Imobiliária
+880;manager_363@goscore.com.br;363;Leonardo de Araújo Lima Freitas;522;Gerente - Leonardo de Araújo Lima Freitas
+879;manager_362@goscore.com.br;362;Lago Premium imobiliária;521;Gerente - Lago Premium imobiliária
+878;manager_361@goscore.com.br;361;Kassifi imóveis Ltda;520;Gerente - Kassifi imóveis Ltda
+877;manager_360@goscore.com.br;360;K3R imóveis;519;Gerente - K3R imóveis
+876;manager_359@goscore.com.br;359;Jane Gardens;518;Gerente - Jane Gardens
+875;manager_358@goscore.com.br;358;Imobiliária Portal;517;Gerente - Imobiliária Portal
+874;manager_357@goscore.com.br;357;Guilherme Salomão;516;Gerente - Guilherme Salomão
+873;manager_356@goscore.com.br;356;Grupo Felizardo;515;Gerente - Grupo Felizardo
+872;manager_355@goscore.com.br;355;GJ NEGÓCIOS IMOBILIÁRIOS;514;Gerente - GJ NEGÓCIOS IMOBILIÁRIOS
+871;manager_354@goscore.com.br;354;Franklin Carvalho;513;Gerente - Franklin Carvalho
+870;manager_353@goscore.com.br;353;Exclusive imobiliária;512;Gerente - Exclusive imobiliária
+869;manager_352@goscore.com.br;352;Evo;511;Gerente - Evo
+868;manager_351@goscore.com.br;351;DOM;510;Gerente - DOM
+867;manager_350@goscore.com.br;350;Consciente Vendas;509;Gerente - Consciente Vendas
+866;manager_349@goscore.com.br;349;Cir Imobiliária;508;Gerente - Cir Imobiliária
+865;manager_348@goscore.com.br;348;CASA MODELO;507;Gerente - CASA MODELO
+864;manager_347@goscore.com.br;347;Casa 41;506;Gerente - Casa 41
+863;manager_346@goscore.com.br;346;BRASILÊRA IMÓVEIS;505;Gerente - BRASILÊRA IMÓVEIS
+862;manager_345@goscore.com.br;345;Weverton Otaviano - Autônomos;504;Gerente - Weverton Otaviano - Autônomos
+861;manager_344@goscore.com.br;344;Aurican Ramos;503;Gerente - Aurican Ramos
+860;manager_343@goscore.com.br;343;Atlanta Imóveis;502;Gerente - Atlanta Imóveis
+859;manager_342@goscore.com.br;342;Alfa Center;501;Gerente - Alfa Center
+858;manager_341@goscore.com.br;341;Aevo Marista;500;Gerente - Aevo Marista
+857;manager_340@goscore.com.br;340;AEVO JARDIM GOIÁS;499;Gerente - AEVO JARDIM GOIÁS
+855;manager_338@goscore.com.br;338;VVS Negócios Imobiliários;497;Gerente - VVS Negócios Imobiliários
+854;manager_337@goscore.com.br;337;Visio Imóveis;496;Gerente - Visio Imóveis
+853;manager_336@goscore.com.br;336;TZ7 Imob.;495;Gerente - TZ7 Imob.
+852;manager_335@goscore.com.br;335;Telma Pires;494;Gerente - Telma Pires
+851;manager_334@goscore.com.br;334;Supreme;493;Gerente - Supreme
+850;manager_333@goscore.com.br;333;SIX PARTNERS;492;Gerente - SIX PARTNERS
+849;manager_332@goscore.com.br;332;Shirley Allves;491;Gerente - Shirley Allves
+848;manager_331@goscore.com.br;331;Royal Imobiiária;490;Gerente - Royal Imobiiária
+847;manager_330@goscore.com.br;330;Roggerio Lemez - Fleury;489;Gerente - Roggerio Lemez - Fleury
+846;manager_329@goscore.com.br;329;Rizzo Imobiliária;488;Gerente - Rizzo Imobiliária
+845;manager_328@goscore.com.br;328;Regina Neves;487;Gerente - Regina Neves
+844;manager_327@goscore.com.br;327;REALIZE IMÓVEIS;486;Gerente - REALIZE IMÓVEIS
+843;manager_326@goscore.com.br;326;RBB Imobiliária;485;Gerente - RBB Imobiliária
+842;manager_325@goscore.com.br;325;Raul Lesme;484;Gerente - Raul Lesme
+841;manager_324@goscore.com.br;324;Prado Imóveis;483;Gerente - Prado Imóveis
+840;manager_323@goscore.com.br;323;PontoCom;482;Gerente - PontoCom
+839;manager_322@goscore.com.br;322;Pointer Imobiliária;481;Gerente - Pointer Imobiliária
+838;manager_321@goscore.com.br;321;Paulo Henrique Imóveis;480;Gerente - Paulo Henrique Imóveis
+837;manager_320@goscore.com.br;320;Partini Vendas;479;Gerente - Partini Vendas
+836;manager_319@goscore.com.br;319;Pado Imóveis;478;Gerente - Pado Imóveis
+835;manager_318@goscore.com.br;318;Osmar Afonso Barbosa;477;Gerente - Osmar Afonso Barbosa
+834;manager_317@goscore.com.br;317;Ópera Soluções Imobiliárias;476;Gerente - Ópera Soluções Imobiliárias
+833;manager_316@goscore.com.br;316;Open hauz;475;Gerente - Open hauz
+832;manager_315@goscore.com.br;315;Onix Imobiliária;474;Gerente - Onix Imobiliária
+831;manager_314@goscore.com.br;314;Ohanna Aguiar;473;Gerente - Ohanna Aguiar
+830;manager_313@goscore.com.br;313;Obter;472;Gerente - Obter
+829;manager_312@goscore.com.br;312;Nov Imobiliária;471;Gerente - Nov Imobiliária
+828;manager_311@goscore.com.br;311;NEX Imoveis;470;Gerente - NEX Imoveis
+827;manager_310@goscore.com.br;310;N4 Imóveis;469;Gerente - N4 Imóveis
+826;manager_309@goscore.com.br;309;Match Imobiliária Conceito;468;Gerente - Match Imobiliária Conceito
+825;manager_308@goscore.com.br;308;Marcelo Simões;467;Gerente - Marcelo Simões
+824;manager_307@goscore.com.br;307;Mappa Imóveis;466;Gerente - Mappa Imóveis
+823;manager_306@goscore.com.br;11;OBSOLETOS;465;Gerente - MAD DOG
+822;manager_305@goscore.com.br;305;Luxury Imóveis;464;Gerente - Luxury Imóveis
+821;manager_304@goscore.com.br;304;Lótus Imobiliária;463;Gerente - Lótus Imobiliária
+820;manager_303@goscore.com.br;303;Legacy;462;Gerente - Legacy
+819;manager_302@goscore.com.br;302;LCRI NEGOCIOS IMOBILIAROS LTDA - Imobiliária TOP;461;Gerente - LCRI NEGOCIOS IMOBILIAROS LTDA - Imobiliária TOP
+818;manager_301@goscore.com.br;301;JC BROKERS;460;Gerente - JC BROKERS
+817;manager_300@goscore.com.br;300;Investt Imóveis;459;Gerente - Investt Imóveis
+816;manager_299@goscore.com.br;299;Imóvel Certo Gyn;458;Gerente - Imóvel Certo Gyn
+815;manager_298@goscore.com.br;298;Imobiliary;457;Gerente - Imobiliary
+814;manager_297@goscore.com.br;297;Imobiliária TOP;456;Gerente - Imobiliária TOP
+813;manager_296@goscore.com.br;296;Imobiliária Dinamic;455;Gerente - Imobiliária Dinamic
+812;manager_295@goscore.com.br;11;OBSOLETOS;454;Gerente - HOUSE YUTÁ
+811;manager_294@goscore.com.br;294;Home Buy;453;Gerente - Home Buy
+810;manager_293@goscore.com.br;293;Hogar Imóveis;452;Gerente - Hogar Imóveis
+809;manager_292@goscore.com.br;292;Gyn Consultoria;451;Gerente - Gyn Consultoria
+808;manager_291@goscore.com.br;291;GS Imóveis;450;Gerente - GS Imóveis
+807;manager_290@goscore.com.br;290;Grupo Delabona;449;Gerente - Grupo Delabona
+806;manager_289@goscore.com.br;289;Fulvio Santos;448;Gerente - Fulvio Santos
+805;manager_288@goscore.com.br;288;Frota Imob;447;Gerente - Frota Imob
+804;manager_287@goscore.com.br;287;Fidelitè;446;Gerente - Fidelitè
+803;manager_286@goscore.com.br;286;Felizardo Imóveis;445;Gerente - Felizardo Imóveis
+802;manager_285@goscore.com.br;285;FEDERAL IMÓVEIS;444;Gerente - FEDERAL IMÓVEIS
+801;manager_284@goscore.com.br;284;FAROL IMOBILIÁRIA;443;Gerente - FAROL IMOBILIÁRIA
+800;manager_283@goscore.com.br;283;Fabíola Cardoso da Silva;442;Gerente - Fabíola Cardoso da Silva
+799;manager_282@goscore.com.br;282;Evolution;441;Gerente - Evolution
+798;manager_281@goscore.com.br;281;DQ Business Consultoria Imobiliária;440;Gerente - DQ Business Consultoria Imobiliária
+797;manager_280@goscore.com.br;280;DATA IMOVEIS;439;Gerente - DATA IMOVEIS
+796;manager_279@goscore.com.br;279;Daniel Henrique de Oliveira Neves;438;Gerente - Daniel Henrique de Oliveira Neves
+795;manager_278@goscore.com.br;278;Claudino Imóveis;437;Gerente - Claudino Imóveis
+794;manager_277@goscore.com.br;277;Buy Home;436;Gerente - Buy Home
+793;manager_276@goscore.com.br;276;Black Hauss;435;Gerente - Black Hauss
+792;manager_275@goscore.com.br;275;Belarmino Imóveis;434;Gerente - Belarmino Imóveis
+791;manager_274@goscore.com.br;274;Azus Imobiliária;433;Gerente - Azus Imobiliária
+790;manager_273@goscore.com.br;273;Paula Tirabosqui - Autônomos;432;Gerente - Paula Tirabosqui - Autônomos
+789;manager_272@goscore.com.br;272;Astro Imobiliária;431;Gerente - Astro Imobiliária
+788;manager_271@goscore.com.br;271;Angela Villa;430;Gerente - Angela Villa
+787;manager_270@goscore.com.br;270;Anderson Cardoso da silva;429;Gerente - Anderson Cardoso da silva
+786;manager_269@goscore.com.br;269;AMJ Gestão Imobiliária;428;Gerente - AMJ Gestão Imobiliária
+785;manager_268@goscore.com.br;268;Alpha Soluções;427;Gerente - Alpha Soluções
+784;manager_267@goscore.com.br;267;Alitz Imóveis;426;Gerente - Alitz Imóveis
+783;manager_266@goscore.com.br;266;Aliga;425;Gerente - Aliga
+782;manager_265@goscore.com.br;265;Adriana Guion;424;Gerente - Adriana Guion
+781;manager_264@goscore.com.br;264;Adão X;423;Gerente - Adão X
+780;manager_263@goscore.com.br;263;Adão Virto;422;Gerente - Adão Virto
+779;manager_262@goscore.com.br;262;Adão Vida Nova;421;Gerente - Adão Vida Nova
+778;manager_261@goscore.com.br;261;Adão Unique;420;Gerente - Adão Unique
+777;manager_260@goscore.com.br;260;Adão Talent;419;Gerente - Adão Talent
+776;manager_259@goscore.com.br;259;Adão Solo;418;Gerente - Adão Solo
+775;manager_258@goscore.com.br;258;Adão Matriz;417;Gerente - Adão Matriz
+773;manager_256@goscore.com.br;256;41 Business;415;Gerente - 41 Business
+772;manager_255@goscore.com.br;255;Xangai Imóveis;414;Gerente - Xangai Imóveis
+771;manager_254@goscore.com.br;254;Wagner Luiz Costa dos Santos;413;Gerente - Wagner Luiz Costa dos Santos
+770;manager_253@goscore.com.br;253;Vitta Imobiliária;412;Gerente - Vitta Imobiliária
+769;manager_252@goscore.com.br;252;VERUS IMOBILIARIA;411;Gerente - VERUS IMOBILIARIA
+768;manager_251@goscore.com.br;251;TAP NEGÓCIOS IMOBILIÁRIOS;410;Gerente - TAP NEGÓCIOS IMOBILIÁRIOS
+767;manager_250@goscore.com.br;250;SHARKS IMOBILIÁRIA JARDIM GOIÁS;409;Gerente - SHARKS IMOBILIÁRIA JARDIM GOIÁS
+766;manager_249@goscore.com.br;249;Saulo Silva;408;Gerente - Saulo Silva
+765;manager_248@goscore.com.br;248;Sarto Imóveis;407;Gerente - Sarto Imóveis
+764;manager_247@goscore.com.br;247;Rogério Gomes de Freitas;406;Gerente - Rogério Gomes de Freitas
+763;manager_246@goscore.com.br;246;Primmus Inteligência Imobiliária;405;Gerente - Primmus Inteligência Imobiliária
+762;manager_245@goscore.com.br;245;Portfolio Prime;404;Gerente - Portfolio Prime
+761;manager_244@goscore.com.br;244;PORTFÓLIO MARISTA;403;Gerente - PORTFÓLIO MARISTA
+760;manager_243@goscore.com.br;243;Portfólio Jardim Goiás;402;Gerente - Portfólio Jardim Goiás
+759;manager_242@goscore.com.br;242;Petra Imóveis;401;Gerente - Petra Imóveis
+758;manager_241@goscore.com.br;241;Pedroza Imóveis;400;Gerente - Pedroza Imóveis
+757;manager_240@goscore.com.br;240;Pedro botosso de amorim;399;Gerente - Pedro botosso de amorim
+756;manager_239@goscore.com.br;239;PARG imóveis;398;Gerente - PARG imóveis
+755;manager_238@goscore.com.br;238;Otavio Augusto Souza Almeida;397;Gerente - Otavio Augusto Souza Almeida
+754;manager_237@goscore.com.br;237;O Povo Imobiliária;396;Gerente - O Povo Imobiliária
+753;manager_236@goscore.com.br;236;Mil Imóvel;395;Gerente - Mil Imóvel
+752;manager_235@goscore.com.br;235;Máxima Imob;394;Gerente - Máxima Imob
+751;manager_234@goscore.com.br;234;Mauricio Agapito dos Santos Jr;393;Gerente - Mauricio Agapito dos Santos Jr
+750;manager_233@goscore.com.br;233;M2;392;Gerente - M2
+749;manager_232@goscore.com.br;232;M A Negócios Imobiliários Ltda;391;Gerente - M A Negócios Imobiliários Ltda
+748;manager_231@goscore.com.br;231;Lídder imobiliária;390;Gerente - Lídder imobiliária
+747;manager_230@goscore.com.br;230;LF REAL STATE LTDA;389;Gerente - LF REAL STATE LTDA
+746;manager_229@goscore.com.br;229;Leonardo Borges;388;Gerente - Leonardo Borges
+745;manager_228@goscore.com.br;228;Leonardo Almeida;387;Gerente - Leonardo Almeida
+744;manager_227@goscore.com.br;227;Imobiliária Vivá;386;Gerente - Imobiliária Vivá
+743;manager_226@goscore.com.br;226;Houser Consultoria Imobiliária Ltda;385;Gerente - Houser Consultoria Imobiliária Ltda
+742;manager_225@goscore.com.br;225;Hopp Imóveis;384;Gerente - Hopp Imóveis
+741;manager_224@goscore.com.br;224;Home Gyn;383;Gerente - Home Gyn
+740;manager_223@goscore.com.br;223;GH Imóveis;382;Gerente - GH Imóveis
+739;manager_222@goscore.com.br;222;Flávia Rodrigues Gomes;381;Gerente - Flávia Rodrigues Gomes
+738;manager_221@goscore.com.br;221;Fernando Henrique Arantes Medrado;380;Gerente - Fernando Henrique Arantes Medrado
+737;manager_220@goscore.com.br;220;Elison Bernardes;379;Gerente - Elison Bernardes
+736;manager_219@goscore.com.br;219;Denise Brito;378;Gerente - Denise Brito
+735;manager_218@goscore.com.br;218;DENES RESENDE;377;Gerente - DENES RESENDE
+734;manager_217@goscore.com.br;217;Cruz Imobiliária;376;Gerente - Cruz Imobiliária
+733;manager_216@goscore.com.br;216;COSTA IMÓVEIS;375;Gerente - COSTA IMÓVEIS
+732;manager_215@goscore.com.br;215;Conectiva Imóveis;374;Gerente - Conectiva Imóveis
+731;manager_214@goscore.com.br;214;CMO Vendas;373;Gerente - CMO Vendas
+730;manager_213@goscore.com.br;213;Breno Ananias;372;Gerente - Breno Ananias
+729;manager_212@goscore.com.br;212;Bravo Imobiliária;371;Gerente - Bravo Imobiliária
+728;manager_211@goscore.com.br;211;BR WORLD & REALTY;370;Gerente - BR WORLD & REALTY
+727;manager_210@goscore.com.br;210;Baiochi Imoveis;369;Gerente - Baiochi Imoveis
+726;manager_209@goscore.com.br;209;AWM IMÓVEIS;368;Gerente - AWM IMÓVEIS
+725;manager_208@goscore.com.br;208;Ornelas da Mata - Autônomos;367;Gerente - Ornelas da Mata - Autônomos
+723;manager_206@goscore.com.br;206;ERRO;365;Gerente - ERRO
+722;manager_205@goscore.com.br;205;Vesper Imóveis;364;Gerente - Vesper Imóveis
+721;manager_204@goscore.com.br;204;Valus Marista;363;Gerente - Valus Marista
+720;manager_203@goscore.com.br;203;VALUS JARDIM GOIÁS;362;Gerente - VALUS JARDIM GOIÁS
+719;manager_202@goscore.com.br;202;Vallóre Negócios Imobiliários;361;Gerente - Vallóre Negócios Imobiliários
+718;manager_201@goscore.com.br;201;Urbs Seven;360;Gerente - Urbs Seven
+717;manager_200@goscore.com.br;200;Urbs Realty;359;Gerente - Urbs Realty
+716;manager_199@goscore.com.br;199;URBS Private;358;Gerente - URBS Private
+715;manager_198@goscore.com.br;198;URBS Piri;357;Gerente - URBS Piri
+714;manager_197@goscore.com.br;197;URBS One;356;Gerente - URBS One
+713;manager_196@goscore.com.br;196;URBS Neo;355;Gerente - URBS Neo
+712;manager_195@goscore.com.br;195;URBS Infinity;354;Gerente - URBS Infinity
+711;manager_194@goscore.com.br;194;Urbs imobi;353;Gerente - Urbs imobi
+710;manager_193@goscore.com.br;193;URBS Donna;352;Gerente - URBS Donna
+709;manager_192@goscore.com.br;192;URBS Connect;351;Gerente - URBS Connect
+708;manager_191@goscore.com.br;191;URBS Conceito;350;Gerente - URBS Conceito
+707;manager_190@goscore.com.br;190;URBS Cerrado;349;Gerente - URBS Cerrado
+706;manager_189@goscore.com.br;189;URBS Brava;348;Gerente - URBS Brava
+705;manager_188@goscore.com.br;188;Urbs Alphamall;347;Gerente - Urbs Alphamall
+704;manager_187@goscore.com.br;187;TJ SOLUCOES IMOBILIARIAS LTDA;346;Gerente - TJ SOLUCOES IMOBILIARIAS LTDA
+703;manager_186@goscore.com.br;186;Thal Opportunity;345;Gerente - Thal Opportunity
+702;manager_185@goscore.com.br;185;Rs Imóveis;344;Gerente - Rs Imóveis
+701;manager_184@goscore.com.br;184;Peixoto Negócios Imobiliários Ltda;343;Gerente - Peixoto Negócios Imobiliários Ltda
+700;manager_183@goscore.com.br;183;OUR Imobi;342;Gerente - OUR Imobi
+699;manager_182@goscore.com.br;182;ONIRIA IMOVEIS;341;Gerente - ONIRIA IMOVEIS
+698;manager_181@goscore.com.br;181;Nítida Imóveis;340;Gerente - Nítida Imóveis
+697;manager_180@goscore.com.br;180;My Side;339;Gerente - My Side
+696;manager_179@goscore.com.br;179;Monferrari Imoveis;338;Gerente - Monferrari Imoveis
+695;manager_178@goscore.com.br;178;ML Imóveis Ltda.;337;Gerente - ML Imóveis Ltda.
+694;manager_177@goscore.com.br;177;Kamanzi Imóveis;336;Gerente - Kamanzi Imóveis
+692;manager_175@goscore.com.br;175;Futura Imóveis;334;Gerente - Futura Imóveis
+691;manager_174@goscore.com.br;174;AWR IMÓVEIS;333;Gerente - AWR IMÓVEIS
+690;manager_173@goscore.com.br;173;AREDES imóveis;332;Gerente - AREDES imóveis
+689;manager_172@goscore.com.br;172;Arbo Imóveis;331;Gerente - Arbo Imóveis
+688;manager_171@goscore.com.br;171;Zimar Gomes;330;Gerente - Zimar Gomes
+687;manager_170@goscore.com.br;170;You;329;Gerente - You
+686;manager_169@goscore.com.br;169;Weudson Saraiva Ribeiro;328;Gerente - Weudson Saraiva Ribeiro
+685;manager_168@goscore.com.br;168;Wesley Ednardo Pimentel;327;Gerente - Wesley Ednardo Pimentel
+684;manager_167@goscore.com.br;167;Vicky;326;Gerente - Vicky
+683;manager_166@goscore.com.br;166;Urias Borges;325;Gerente - Urias Borges
+682;manager_165@goscore.com.br;165;Terral Vendas;324;Gerente - Terral Vendas
+681;manager_164@goscore.com.br;164;Tellure;323;Gerente - Tellure
+680;manager_163@goscore.com.br;163;Tcm;322;Gerente - Tcm
+679;manager_162@goscore.com.br;162;Taquary Imoveis;321;Gerente - Taquary Imoveis
+678;manager_161@goscore.com.br;161;Tandoor Imóveis;320;Gerente - Tandoor Imóveis
+677;manager_160@goscore.com.br;160;Talita Michele Gomes de Oliveira;319;Gerente - Talita Michele Gomes de Oliveira
+676;manager_159@goscore.com.br;159;SOHO IMOBILIÁRIA CONCEITO;318;Gerente - SOHO IMOBILIÁRIA CONCEITO
+675;manager_158@goscore.com.br;158;Rossi Imóveis;317;Gerente - Rossi Imóveis
+674;manager_157@goscore.com.br;157;Rodrigo Maroli;316;Gerente - Rodrigo Maroli
+673;manager_156@goscore.com.br;156;Renato Fernandes;315;Gerente - Renato Fernandes
+672;manager_155@goscore.com.br;155;Rebecca imóveis;314;Gerente - Rebecca imóveis
+671;manager_154@goscore.com.br;154;Piinari;313;Gerente - Piinari
+670;manager_153@goscore.com.br;153;OM Vendas;312;Gerente - OM Vendas
+669;manager_152@goscore.com.br;152;Nova Imobiliária;311;Gerente - Nova Imobiliária
+668;manager_151@goscore.com.br;151;Murilo Occhiena Gomes de Oliveira;310;Gerente - Murilo Occhiena Gomes de Oliveira
+667;manager_150@goscore.com.br;150;MGI House;309;Gerente - MGI House
+666;manager_149@goscore.com.br;149;Melhor Imóvel Soluções Imobiliárias;308;Gerente - Melhor Imóvel Soluções Imobiliárias
+665;manager_148@goscore.com.br;148;MB Vila Brasília;307;Gerente - MB Vila Brasília
+664;manager_147@goscore.com.br;147;MB Setor Sul;306;Gerente - MB Setor Sul
+663;manager_146@goscore.com.br;146;MB Senador Canedo;305;Gerente - MB Senador Canedo
+662;manager_145@goscore.com.br;145;MB pç do Sol;304;Gerente - MB pç do Sol
+661;manager_144@goscore.com.br;144;MB Parque Amazônia;303;Gerente - MB Parque Amazônia
+660;manager_143@goscore.com.br;143;MB Office;302;Gerente - MB Office
+659;manager_142@goscore.com.br;142;MB Marista;301;Gerente - MB Marista
+658;manager_141@goscore.com.br;141;MB Jd America;300;Gerente - MB Jd America
+657;manager_140@goscore.com.br;140;MB Jardim Goiás;299;Gerente - MB Jardim Goiás
+656;manager_139@goscore.com.br;139;MB Independência;298;Gerente - MB Independência
+655;manager_138@goscore.com.br;138;MB Garavelo;297;Gerente - MB Garavelo
+654;manager_137@goscore.com.br;137;MB Eldorado;296;Gerente - MB Eldorado
+653;manager_136@goscore.com.br;136;MB Bueno;295;Gerente - MB Bueno
+652;manager_135@goscore.com.br;135;MB Buena Vista;294;Gerente - MB Buena Vista
+651;manager_134@goscore.com.br;134;MB Areião;293;Gerente - MB Areião
+650;manager_133@goscore.com.br;133;MB Alpha Mall;292;Gerente - MB Alpha Mall
+649;manager_132@goscore.com.br;132;Marista Imóveis;291;Gerente - Marista Imóveis
+648;manager_131@goscore.com.br;131;Malu Carneiro;290;Gerente - Malu Carneiro
+647;manager_130@goscore.com.br;130;LVD Gestão Imobiliária Ltda;289;Gerente - LVD Gestão Imobiliária Ltda
+646;manager_129@goscore.com.br;129;Luciana Gurgel;288;Gerente - Luciana Gurgel
+645;manager_128@goscore.com.br;128;Lorena Garcia Matias Pinto;287;Gerente - Lorena Garcia Matias Pinto
+644;manager_127@goscore.com.br;127;Lets Imob;286;Gerente - Lets Imob
+643;manager_126@goscore.com.br;126;Leika Aparecida Laureano;285;Gerente - Leika Aparecida Laureano
+642;manager_125@goscore.com.br;125;KyRo Soluções Imobiliárias;284;Gerente - KyRo Soluções Imobiliárias
+641;manager_124@goscore.com.br;124;Kelly Cristina Barbosa da Silva;283;Gerente - Kelly Cristina Barbosa da Silva
+640;manager_123@goscore.com.br;123;Kayra Dias;282;Gerente - Kayra Dias
+639;manager_122@goscore.com.br;122;Josimeire Teixeira Sousa;281;Gerente - Josimeire Teixeira Sousa
+638;manager_121@goscore.com.br;121;JOSÉ MARCOS MOREIRA FILHO;280;Gerente - JOSÉ MARCOS MOREIRA FILHO
+637;manager_120@goscore.com.br;120;Jennifer Imóveis;279;Gerente - Jennifer Imóveis
+636;manager_119@goscore.com.br;119;IZZI IMOVEIS;278;Gerente - IZZI IMOVEIS
+635;manager_118@goscore.com.br;118;IMMOBILE CENTER NEGOCIOS IMOBILIARIOS;277;Gerente - IMMOBILE CENTER NEGOCIOS IMOBILIARIOS
+634;manager_117@goscore.com.br;117;Hub Soluções Imobiliárias;276;Gerente - Hub Soluções Imobiliárias
+633;manager_116@goscore.com.br;116;House Goiás Imobiliária;275;Gerente - House Goiás Imobiliária
+632;manager_115@goscore.com.br;115;HAUZ NEGOCIOS IMOBILIARIOS;274;Gerente - HAUZ NEGOCIOS IMOBILIARIOS
+631;manager_114@goscore.com.br;114;HAUT IMOVEIS SOB MEDIDA;273;Gerente - HAUT IMOVEIS SOB MEDIDA
+630;manager_113@goscore.com.br;113;Guilherme Pina;272;Gerente - Guilherme Pina
+629;manager_112@goscore.com.br;112;Full house;271;Gerente - Full house
+628;manager_111@goscore.com.br;111;Firmino Filho;270;Gerente - Firmino Filho
+627;manager_110@goscore.com.br;110;Ezi Imoveis;269;Gerente - Ezi Imoveis
+626;manager_109@goscore.com.br;109;Exho;268;Gerente - Exho
+625;manager_108@goscore.com.br;108;EVA MAGALHAES NEGOCIOS IMOBILIARIOS;267;Gerente - EVA MAGALHAES NEGOCIOS IMOBILIARIOS
+624;manager_107@goscore.com.br;107;Emirates Imobiliária;266;Gerente - Emirates Imobiliária
+623;manager_106@goscore.com.br;106;Emerson Ferraz de Oliveira;265;Gerente - Emerson Ferraz de Oliveira
+622;manager_105@goscore.com.br;105;Diamond;264;Gerente - Diamond
+621;manager_104@goscore.com.br;104;CLASS IMOVEIS;263;Gerente - CLASS IMOVEIS
+620;manager_103@goscore.com.br;103;Charlene Athie;262;Gerente - Charlene Athie
+619;manager_102@goscore.com.br;102;Castel Infinity;261;Gerente - Castel Infinity
+618;manager_101@goscore.com.br;101;BSDI;260;Gerente - BSDI
+617;manager_100@goscore.com.br;100;Brokers Imoveis;259;Gerente - Brokers Imoveis
+616;manager_99@goscore.com.br;99;Blue House;258;Gerente - Blue House
+615;manager_98@goscore.com.br;98;Axe Imobiliária;257;Gerente - Axe Imobiliária
+614;manager_97@goscore.com.br;97;Kamyla Costa - Autônomos;256;Gerente - Kamyla Costa - Autônomos
+613;manager_96@goscore.com.br;96;Argon Conexoes imobiliarias;255;Gerente - Argon Conexoes imobiliarias
+612;manager_95@goscore.com.br;95;AMIZ;254;Gerente - AMIZ
+611;manager_94@goscore.com.br;94;Aleixo Rezende;253;Gerente - Aleixo Rezende
+610;manager_93@goscore.com.br;93;ADM Imobiliária;252;Gerente - ADM Imobiliária
+609;manager_92@goscore.com.br;92;2K IMÓVEIS;251;Gerente - 2K IMÓVEIS
+608;manager_91@goscore.com.br;91;City Vendas;250;Gerente - City Vendas
+605;manager_88@goscore.com.br;88;Weverton Reis Santos;247;Gerente - Weverton Reis Santos
+604;manager_87@goscore.com.br;87;Westony Gomes Pereira;246;Gerente - Westony Gomes Pereira
+603;manager_86@goscore.com.br;86;VOLKER IMOVEIS;245;Gerente - VOLKER IMOVEIS
+602;manager_85@goscore.com.br;85;TAVARES E MEDINA IMOVEIS;244;Gerente - TAVARES E MEDINA IMOVEIS
+601;manager_84@goscore.com.br;84;SOUSA ANDRADE VENDAS;243;Gerente - SOUSA ANDRADE VENDAS
+600;manager_83@goscore.com.br;83;RODOVALHO IMOVEIS;242;Gerente - RODOVALHO IMOVEIS
+599;manager_82@goscore.com.br;82;Ricardo Ribas Imóveis;241;Gerente - Ricardo Ribas Imóveis
+598;manager_81@goscore.com.br;81;REVENDAS GOIÂNIA;240;Gerente - REVENDAS GOIÂNIA
+597;manager_80@goscore.com.br;80;REMAX;239;Gerente - REMAX
+596;manager_79@goscore.com.br;79;RAFAEL MACHADO;238;Gerente - RAFAEL MACHADO
+595;manager_78@goscore.com.br;78;R8 Imóveis;237;Gerente - R8 Imóveis
+594;manager_77@goscore.com.br;77;PRIVILEGE IMOBILIARIA;236;Gerente - PRIVILEGE IMOBILIARIA
+593;manager_76@goscore.com.br;76;Prime Imóveis;235;Gerente - Prime Imóveis
+592;manager_75@goscore.com.br;75;Pérola Imóveis;234;Gerente - Pérola Imóveis
+591;manager_74@goscore.com.br;74;PERITOS EM IMÓVEIS;233;Gerente - PERITOS EM IMÓVEIS
+590;manager_73@goscore.com.br;73;PENTAGONO IMOVEIS;232;Gerente - PENTAGONO IMOVEIS
+589;manager_72@goscore.com.br;72;PCI imóveis;231;Gerente - PCI imóveis
+588;manager_71@goscore.com.br;71;PATRICK E LEANDRO IMÓVEIS;230;Gerente - PATRICK E LEANDRO IMÓVEIS
+587;manager_70@goscore.com.br;70;Oron Imobiliária;229;Gerente - Oron Imobiliária
+586;manager_69@goscore.com.br;69;Orlando Donizete Souza Junior;228;Gerente - Orlando Donizete Souza Junior
+585;manager_68@goscore.com.br;68;OPC PRIME;227;Gerente - OPC PRIME
+584;manager_67@goscore.com.br;67;NONATO IMÓVEIS;226;Gerente - NONATO IMÓVEIS
+583;manager_66@goscore.com.br;66;MAXWELL IMOVEIS;225;Gerente - MAXWELL IMOVEIS
+582;manager_65@goscore.com.br;65;MARINALVA SOUZA;224;Gerente - MARINALVA SOUZA
+581;manager_64@goscore.com.br;64;MAQNA NEGOCIOS IMOBILIARIOS;223;Gerente - MAQNA NEGOCIOS IMOBILIARIOS
+580;manager_63@goscore.com.br;63;MAGALI BRANDAO;222;Gerente - MAGALI BRANDAO
+579;manager_62@goscore.com.br;62;M360 IMOVEIS;221;Gerente - M360 IMOVEIS
+578;manager_61@goscore.com.br;61;LVL IMOBILIARIA;220;Gerente - LVL IMOBILIARIA
+577;manager_60@goscore.com.br;60;Luxo imóveis Goiás;219;Gerente - Luxo imóveis Goiás
+576;manager_59@goscore.com.br;59;Luxo Gyn;218;Gerente - Luxo Gyn
+575;manager_58@goscore.com.br;58;LUMINA IMOBILIARIA;217;Gerente - LUMINA IMOBILIARIA
+574;manager_57@goscore.com.br;57;LTZ IMOVEIS;216;Gerente - LTZ IMOVEIS
+573;manager_56@goscore.com.br;56;LOREN GUSMÃO;215;Gerente - LOREN GUSMÃO
+572;manager_55@goscore.com.br;55;Lopes Marista;214;Gerente - Lopes Marista
+571;manager_54@goscore.com.br;54;Lopes Jardim Goiás;213;Gerente - Lopes Jardim Goiás
+570;manager_53@goscore.com.br;53;Lopes Bueno;212;Gerente - Lopes Bueno
+569;manager_52@goscore.com.br;52;Leonardo Lacerda;211;Gerente - Leonardo Lacerda
+568;manager_51@goscore.com.br;51;KEILA ALVES;210;Gerente - KEILA ALVES
+567;manager_50@goscore.com.br;50;João Márcio Inácio Siqueira;209;Gerente - João Márcio Inácio Siqueira
+566;manager_49@goscore.com.br;49;Imagem Imóveis;208;Gerente - Imagem Imóveis
+565;manager_48@goscore.com.br;48;Heracléia Aparecida Franco Marques Carvalho;207;Gerente - Heracléia Aparecida Franco Marques Carvalho
+564;manager_47@goscore.com.br;47;GILBERTO DE ALCANTARA;206;Gerente - GILBERTO DE ALCANTARA
+563;manager_46@goscore.com.br;46;G1 IMOVEIS;205;Gerente - G1 IMOVEIS
+562;manager_45@goscore.com.br;45;Fortunato Pedroza;204;Gerente - Fortunato Pedroza
+561;manager_44@goscore.com.br;44;Feliciano Imóveis;203;Gerente - Feliciano Imóveis
+560;manager_43@goscore.com.br;43;Fabiana Mundim;202;Gerente - Fabiana Mundim
+559;manager_42@goscore.com.br;42;Exata Imoveis;201;Gerente - Exata Imoveis
+558;manager_41@goscore.com.br;41;Especifica Imóveis;200;Gerente - Especifica Imóveis
+557;manager_40@goscore.com.br;40;Epic Real Estate Imobiliaria;199;Gerente - Epic Real Estate Imobiliaria
+556;manager_39@goscore.com.br;39;Elton Francisco da Silva;198;Gerente - Elton Francisco da Silva
+555;manager_38@goscore.com.br;38;Eliane Bastos;197;Gerente - Eliane Bastos
+554;manager_37@goscore.com.br;37;CRISTAL IMOVEIS;196;Gerente - CRISTAL IMOVEIS
+553;manager_36@goscore.com.br;36;CONEX HOME;195;Gerente - CONEX HOME
+552;manager_35@goscore.com.br;35;CL7 Imóveis Ltda;194;Gerente - CL7 Imóveis Ltda
+551;manager_34@goscore.com.br;34;CASABELLA IMOBILIARIA;193;Gerente - CASABELLA IMOBILIARIA
+550;manager_33@goscore.com.br;33;CASA TUA;192;Gerente - CASA TUA
+549;manager_32@goscore.com.br;32;CARVALHO IMÓVEIS;191;Gerente - CARVALHO IMÓVEIS
+548;manager_31@goscore.com.br;31;CARTERI IMOVEIS;190;Gerente - CARTERI IMOVEIS
+547;manager_30@goscore.com.br;30;Carolayny Carvalho Lima;189;Gerente - Carolayny Carvalho Lima
+546;manager_29@goscore.com.br;29;BW IMÓVEIS;188;Gerente - BW IMÓVEIS
+545;manager_28@goscore.com.br;28;BL IMOVEIS;187;Gerente - BL IMOVEIS
+544;manager_27@goscore.com.br;27;BIC EMPREENDIMENTOS E NEGÓCIOS;186;Gerente - BIC EMPREENDIMENTOS E NEGÓCIOS
+543;manager_26@goscore.com.br;26;BARRETO IMOVEIS;185;Gerente - BARRETO IMOVEIS
+542;manager_25@goscore.com.br;25;B2C IMOVEIS;184;Gerente - B2C IMOVEIS
+541;manager_24@goscore.com.br;24;Caroline Neri - Autônomos;183;Gerente - Caroline Neri - Autônomos
+540;manager_23@goscore.com.br;23;ATUAL IMOBILIARIA;182;Gerente - ATUAL IMOBILIARIA
+539;manager_22@goscore.com.br;22;Argon;181;Gerente - Argon
+538;manager_21@goscore.com.br;21;Anderson Rodrigues Ribeiro;180;Gerente - Anderson Rodrigues Ribeiro
+537;manager_20@goscore.com.br;20;Ana Vera Carvalho;179;Gerente - Ana Vera Carvalho
+536;manager_19@goscore.com.br;19;Ana Mônica Barbosa da Cunha;178;Gerente - Ana Mônica Barbosa da Cunha
+535;manager_18@goscore.com.br;18;ALLGE IMÓVEIS;177;Gerente - ALLGE IMÓVEIS
+534;manager_17@goscore.com.br;17;ACTOS IMOVEIS;176;Gerente - ACTOS IMOVEIS
+533;manager_16@goscore.com.br;16;TESTE01;175;Gerente - TESTE01
+532;manager_15@goscore.com.br;1;Corretores de Mercado;174;Gerente - TESTE01
+531;manager_14@goscore.com.br;1;Corretores de Mercado;173;Gerente - TESTE01
+530;manager_13@goscore.com.br;13;ImobFelipe;172;Gerente - ImobFelipe
+529;manager_12@goscore.com.br;12;Equipe TESTE;171;Gerente - Equipe TESTE
+524;neylor@cityinc.com.br;11;OBSOLETOS;170;Gerente GI teste City 1
+522;iandra.alves@cityinc.com.br;11;OBSOLETOS;169;Gerente GI teste City 2
+520;manager_11@goscore.com.br;11;OBSOLETOS;168;Gerente - OBSOLETOS
+519;manager_10@goscore.com.br;1;Corretores de Mercado;167;Gerente - TUTU MOVEIS
+467;alberto.soares@teste.appfacilita.com;1;Corretores de Mercado;162;Alberto Soares

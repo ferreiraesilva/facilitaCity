@@ -9,7 +9,7 @@ from pathlib import Path
 root_path = Path(__file__).resolve().parent.parent.parent
 sys.path.append(str(root_path))
 
-from utils.helpers import detect_delimiter, load_env, get_api_config
+from utils.helpers import detect_delimiter, load_env, get_api_config, create_backup
 
 # Carregar config centralizada (para obter base_url se necessário)
 BASE_URL, _, _ = get_api_config()
@@ -94,6 +94,9 @@ def sync_csv(teams_map):
             rows.append(new_row)
             added_count += 1
             existing_names[norm_name] = True
+
+    # Criar backup antes de salvar
+    create_backup(CSV_PATH)
 
     with open(CSV_PATH, mode="w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=delim)

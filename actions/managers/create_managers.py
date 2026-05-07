@@ -1,7 +1,6 @@
 import csv
 import requests
 import time
-import os
 import sys
 from pathlib import Path
 
@@ -9,7 +8,7 @@ from pathlib import Path
 root_path = Path(__file__).resolve().parent.parent.parent
 sys.path.append(str(root_path))
 
-from utils.helpers import detect_delimiter, load_env, get_api_config
+from utils.helpers import detect_delimiter, load_env, get_api_config, create_backup
 
 # Carregar config centralizada
 BASE_URL, HEADERS, COOKIES = get_api_config()
@@ -50,10 +49,11 @@ def fetch_all_teams():
     return teams_map
 
 def main():
+    if not CSV_PATH.exists(): return
+    
     teams_map = fetch_all_teams()
     if not teams_map:
-        print("Erro: Não foi possível carregar as equipes.")
-        return
+        print("Aviso: Não foi possível carregar as equipes para mapeamento por nome.")
 
     delim = detect_delimiter(CSV_PATH)
     rows = []
@@ -66,9 +66,10 @@ def main():
         if "Id" not in fieldnames: fieldnames.append("Id")
         rows = [dict(row) for row in reader]
 
+    # Pré-processamento: Resolver idImobiliaria se estiver vazio mas tiver o nome
     for row in rows:
-        name = row.get("Imobiliaria")
-        norm_name = normalize(name)
+        name_imob = row.get("Imobiliaria")
+        norm_name = normalize(name_imob)
         if not row.get("idImobiliaria") and norm_name in teams_map:
             row["idImobiliaria"] = teams_map[norm_name]
 
@@ -93,7 +94,7 @@ def main():
         
         url = CREATE_MEMBER_BASE_URL.format(team_id=team_id)
         try:
-            resp = requests.post(url, headers=HEADERS, cookies=COOKIES, json=payload)
+            resp = requests.post(url, headers=HEADERS, cookies=COOKIES, json=payload, timeout=20)
             if resp.status_code in [200, 201]:
                 user_data = resp.json()
                 new_id = user_data.get("data", {}).get("id") or user_data.get("id")
@@ -101,17 +102,24 @@ def main():
                     row["Id"] = str(new_id)
                     print(f"  [OK] Criado: {name} ({email}) - ID: {new_id}")
                     success_count += 1
-        except Exception:
-            pass
+                else:
+                    print(f"  [ERRO] Resposta sem ID para: {name} ({email})")
+            else:
+                print(f"  [ERRO] Status {resp.status_code} para: {name} ({email}) - {resp.text[:100]}")
+        except Exception as e:
+            print(f"  [EXCEÇÃO] {e} para: {name} ({email})")
         
         time.sleep(0.2) 
+
+    # Criar backup antes de salvar os IDs novos
+    create_backup(CSV_PATH)
 
     with open(CSV_PATH, mode="w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=delim)
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"\nFinalizado. Usuários criados: {success_count}")
+    print(f"\nFinalizado. Gerentes criados: {success_count}")
 
 if __name__ == "__main__":
     main()

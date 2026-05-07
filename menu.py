@@ -19,12 +19,14 @@ MENUS = {
         ("Criar Gerentes em Massa",             "actions/managers/create_managers.py"),
         ("Ativar/Inativar TODOS da lista",      "actions/managers/toggle_managers_status.py"),
         ("Ativar/Inativar ALGUNS via CSV",      "actions/managers/update_managers_status.py"),
+        ("BLOQUEIO/LIBERAÇÃO EM MASSA (V2)",    "actions/managers/bulk_status_managers.py"),
     ],
     "CORRETORES": [
         ("Sincronizar Corretores da API",       "actions/brokers/sync_brokers_to_csv.py"),
         ("Criar Corretores em Massa",           "actions/brokers/create_brokers.py"),
         ("Ativar/Inativar TODOS da lista",      "actions/brokers/toggle_brokers_status.py"),
         ("Ativar/Inativar ALGUNS via CSV",      "actions/brokers/update_brokers_status.py"),
+        ("BLOQUEIO/LIBERAÇÃO EM MASSA (V2)",    "actions/brokers/bulk_status_brokers.py"),
     ],
 }
 
